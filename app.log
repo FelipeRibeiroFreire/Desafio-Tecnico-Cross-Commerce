@@ -1,0 +1,2149 @@
+2022-02-13 17:59:45,060 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:45,419 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:45,747 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:46,107 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:46,435 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:46,779 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:47,091 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:47,419 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 17:59:47,763 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 18:02:22,953 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 18:03:49,540 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 18:03:52,634 - root - INFO - {'message': 'iniciando ordenação'}
+2022-02-13 18:03:52,681 - root - INFO - {'message': 'ordenação finalizada'}
+2022-02-13 18:04:09,635 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 18:04:42,161 - root - INFO - {'message': 'page: 96 -> Simulated internal error'}
+2022-02-13 18:05:28,072 - root - INFO - {'message': 'page: 232 -> Simulated internal error'}
+2022-02-13 18:07:23,115 - root - INFO - {'message': 'page: 575 -> Simulated internal error'}
+2022-02-13 18:08:07,081 - root - INFO - {'message': 'page: 705 -> Simulated internal error'}
+2022-02-13 18:08:53,405 - root - INFO - {'message': 'page: 841 -> Simulated internal error'}
+2022-02-13 18:09:47,046 - root - INFO - {'message': 'iniciando ordenação'}
+2022-02-13 18:21:58,850 - root - INFO - {'message': 'ordenação finalizada'}
+2022-02-13 19:19:36,951 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:19:48,000 - root - INFO - {'message': 'page: 33 -> Simulated internal error'}
+2022-02-13 19:20:18,765 - root - INFO - {'message': 'page: 123 -> Simulated internal error'}
+2022-02-13 19:20:29,975 - root - INFO - {'message': 'page: 155 -> Simulated internal error'}
+2022-02-13 19:20:49,940 - root - INFO - {'message': 'page: 213 -> Simulated internal error'}
+2022-02-13 19:21:04,249 - root - INFO - {'message': 'page: 254 -> Simulated internal error'}
+2022-02-13 19:21:08,234 - root - INFO - {'message': 'page: 265 -> Simulated internal error'}
+2022-02-13 19:21:49,343 - root - INFO - {'message': 'page: 387 -> Simulated internal error'}
+2022-02-13 19:22:25,364 - root - INFO - {'message': 'page: 493 -> Simulated internal error'}
+2022-02-13 19:22:32,739 - root - INFO - {'message': 'page: 514 -> Simulated internal error'}
+2022-02-13 19:23:24,952 - root - INFO - {'message': 'page: 668 -> Simulated internal error'}
+2022-02-13 19:23:25,234 - root - INFO - {'message': 'page: 668 -> Simulated internal error'}
+2022-02-13 19:23:50,434 - root - INFO - {'message': 'page: 730 -> Simulated internal error'}
+2022-02-13 19:24:36,101 - root - INFO - {'message': 'page: 864 -> Simulated internal error'}
+2022-02-13 19:24:39,880 - root - INFO - {'message': 'page: 874 -> Simulated internal error'}
+2022-02-13 19:25:15,159 - root - INFO - {'message': 'page: 977 -> Simulated internal error'}
+2022-02-13 19:25:22,853 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-13 19:25:23,150 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-13 19:25:23,150 - root - INFO - {'message': 'iniciando ordenação por index'}
+2022-02-13 19:25:23,197 - root - INFO - {'message': 'ordenação  por index finalizada'}
+2022-02-13 19:28:31,140 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:28:34,870 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:28:55,082 - root - INFO - {'message': 'page: 71 -> Simulated internal error'}
+2022-02-13 19:29:11,479 - root - INFO - {'message': 'page: 118 -> Simulated internal error'}
+2022-02-13 19:29:28,790 - root - INFO - {'message': 'page: 169 -> Simulated internal error'}
+2022-02-13 19:30:29,857 - root - INFO - {'message': 'page: 343 -> Simulated internal error'}
+2022-02-13 19:30:42,131 - root - INFO - {'message': 'page: 378 -> Simulated internal error'}
+2022-02-13 19:30:51,654 - root - INFO - {'message': 'page: 414 -> Simulated internal error'}
+2022-02-13 19:31:07,248 - root - INFO - {'message': 'page: 452 -> Simulated internal error'}
+2022-02-13 19:31:19,797 - root - INFO - {'message': 'page: 488 -> Simulated internal error'}
+2022-02-13 19:31:57,558 - root - INFO - {'message': 'page: 600 -> Simulated internal error'}
+2022-02-13 19:32:04,309 - root - INFO - {'message': 'page: 619 -> Simulated internal error'}
+2022-02-13 19:32:04,965 - root - INFO - {'message': 'page: 620 -> Simulated internal error'}
+2022-02-13 19:32:31,702 - root - INFO - {'message': 'page: 698 -> Simulated internal error'}
+2022-02-13 19:32:42,547 - root - INFO - {'message': 'page: 743 -> Simulated internal error'}
+2022-02-13 19:34:58,354 - root - INFO - {'message': 'page: 1123 -> Simulated internal error'}
+2022-02-13 19:35:00,416 - root - INFO - {'message': 'page: 1128 -> Simulated internal error'}
+2022-02-13 19:35:29,675 - root - INFO - {'message': 'page: 1229 -> Simulated internal error'}
+2022-02-13 19:35:43,386 - root - INFO - {'message': 'page: 1254 -> Simulated internal error'}
+2022-02-13 19:35:47,761 - root - INFO - {'message': 'page: 1266 -> Simulated internal error'}
+2022-02-13 19:36:12,296 - root - INFO - {'message': 'page: 1355 -> Simulated internal error'}
+2022-02-13 19:37:22,663 - root - INFO - {'message': 'page: 1565 -> Simulated internal error'}
+2022-02-13 19:37:27,318 - root - INFO - {'message': 'page: 1564 -> Simulated internal error'}
+2022-02-13 19:37:56,581 - root - INFO - {'message': 'page: 1650 -> Simulated internal error'}
+2022-02-13 19:38:11,839 - root - INFO - {'message': 'page: 1710 -> Simulated internal error'}
+2022-02-13 19:38:54,234 - root - INFO - {'message': 'page: 1836 -> Simulated internal error'}
+2022-02-13 19:39:10,388 - root - INFO - {'message': 'page: 1883 -> Simulated internal error'}
+2022-02-13 19:40:08,063 - root - INFO - {'message': 'iniciando ordenação por index'}
+2022-02-13 19:40:09,907 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-13 19:40:10,501 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-13 19:43:42,260 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:43:43,728 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:43:54,218 - root - INFO - {'message': 'page: 36 -> Simulated internal error'}
+2022-02-13 19:44:02,760 - root - INFO - {'message': 'page: 60 -> Simulated internal error'}
+2022-02-13 19:44:08,669 - root - INFO - {'message': 'page: 77 -> Simulated internal error'}
+2022-02-13 19:44:09,840 - root - INFO - {'message': 'page: 77 -> Simulated internal error'}
+2022-02-13 19:44:12,231 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:44:14,231 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 19:44:52,728 - root - INFO - {'message': 'page: 118 -> Simulated internal error'}
+2022-02-13 19:45:07,860 - root - INFO - {'message': 'page: 151 -> Simulated internal error'}
+2022-02-13 19:45:09,878 - root - INFO - {'message': 'page: 156 -> Simulated internal error'}
+2022-02-13 19:45:13,350 - root - INFO - {'message': 'page: 164 -> Simulated internal error'}
+2022-02-13 19:45:15,000 - root - INFO - {'message': 'page: 168 -> Simulated internal error'}
+2022-02-13 19:45:16,656 - root - INFO - {'message': 'page: 175 -> Simulated internal error'}
+2022-02-13 19:45:20,313 - root - INFO - {'message': 'page: 183 -> Simulated internal error'}
+2022-02-13 19:45:21,573 - root - INFO - {'message': 'page: 185 -> Simulated internal error'}
+2022-02-13 19:45:44,662 - root - INFO - {'message': 'page: 250 -> Simulated internal error'}
+2022-02-13 19:46:48,315 - root - INFO - {'message': 'page: 368 -> Simulated internal error'}
+2022-02-13 19:46:53,757 - root - INFO - {'message': 'page: 383 -> Simulated internal error'}
+2022-02-13 19:47:27,433 - root - INFO - {'message': 'iniciando ordenação por index'}
+2022-02-13 19:47:32,794 - root - INFO - {'message': 'page: 499 -> Simulated internal error'}
+2022-02-13 19:47:33,088 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-13 19:47:33,215 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-13 19:50:11,657 - root - INFO - {'message': 'ordenação  por index finalizada'}
+2022-02-13 20:39:36,602 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 20:39:44,332 - root - INFO - {'message': 'page: 23 -> Simulated internal error'}
+2022-02-13 20:40:20,206 - root - INFO - {'message': 'page: 128 -> Simulated internal error'}
+2022-02-13 20:40:36,413 - root - INFO - {'message': 'page: 175 -> Simulated internal error'}
+2022-02-13 20:41:45,012 - root - INFO - {'message': 'page: 378 -> Simulated internal error'}
+2022-02-13 20:42:09,735 - root - INFO - {'message': 'page: 451 -> Simulated internal error'}
+2022-02-13 20:42:27,778 - root - INFO - {'message': 'page: 504 -> Simulated internal error'}
+2022-02-13 20:42:37,008 - root - INFO - {'message': 'page: 530 -> Simulated internal error'}
+2022-02-13 20:42:56,091 - root - INFO - {'message': 'page: 586 -> Simulated internal error'}
+2022-02-13 20:43:27,196 - root - INFO - {'message': 'page: 677 -> Simulated internal error'}
+2022-02-13 20:43:36,491 - root - INFO - {'message': 'page: 704 -> Simulated internal error'}
+2022-02-13 20:43:51,583 - root - INFO - {'message': 'page: 748 -> Simulated internal error'}
+2022-02-13 20:44:13,780 - root - INFO - {'message': 'page: 814 -> Simulated internal error'}
+2022-02-13 20:44:46,416 - root - INFO - {'message': 'page: 909 -> Simulated internal error'}
+2022-02-13 20:45:02,328 - root - INFO - {'message': 'page: 955 -> Simulated internal error'}
+2022-02-13 20:45:07,062 - root - INFO - {'message': 'page: 968 -> Simulated internal error'}
+2022-02-13 20:45:20,975 - root - INFO - {'message': 'page: 1008 -> Simulated internal error'}
+2022-02-13 20:45:51,946 - root - INFO - {'message': 'page: 1099 -> Simulated internal error'}
+2022-02-13 20:45:58,607 - root - INFO - {'message': 'page: 1118 -> Simulated internal error'}
+2022-02-13 20:46:06,711 - root - INFO - {'message': 'page: 1142 -> Simulated internal error'}
+2022-02-13 20:46:08,450 - root - INFO - {'message': 'page: 1146 -> Simulated internal error'}
+2022-02-13 20:46:10,684 - root - INFO - {'message': 'page: 1152 -> Simulated internal error'}
+2022-02-13 20:46:49,534 - root - INFO - {'message': 'page: 1268 -> Simulated internal error'}
+2022-02-13 20:47:53,439 - root - INFO - {'message': 'page: 1455 -> Simulated internal error'}
+2022-02-13 20:48:11,159 - root - INFO - {'message': 'page: 1506 -> Simulated internal error'}
+2022-02-13 20:48:33,592 - root - INFO - {'message': 'page: 1572 -> Simulated internal error'}
+2022-02-13 20:49:18,120 - root - INFO - {'message': 'page: 1704 -> Simulated internal error'}
+2022-02-13 20:50:20,204 - root - INFO - {'message': 'page: 1889 -> Simulated internal error'}
+2022-02-13 20:51:52,290 - root - INFO - {'message': 'page: 2162 -> Simulated internal error'}
+2022-02-13 20:52:38,747 - root - INFO - {'message': 'page: 2300 -> Simulated internal error'}
+2022-02-13 20:52:43,491 - root - INFO - {'message': 'page: 2313 -> Simulated internal error'}
+2022-02-13 20:52:51,066 - root - INFO - {'message': 'page: 2335 -> Simulated internal error'}
+2022-02-13 20:53:12,790 - root - INFO - {'message': 'page: 2398 -> Simulated internal error'}
+2022-02-13 20:54:06,431 - root - INFO - {'message': 'page: 2556 -> Simulated internal error'}
+2022-02-13 20:54:25,215 - root - INFO - {'message': 'page: 2611 -> Simulated internal error'}
+2022-02-13 20:55:18,073 - root - INFO - {'message': 'page: 2766 -> Simulated internal error'}
+2022-02-13 20:56:13,314 - root - INFO - {'message': 'page: 2929 -> Simulated internal error'}
+2022-02-13 20:56:32,372 - root - INFO - {'message': 'page: 2985 -> Simulated internal error'}
+2022-02-13 20:56:48,781 - root - INFO - {'message': 'page: 3033 -> Simulated internal error'}
+2022-02-13 20:56:54,435 - root - INFO - {'message': 'page: 3049 -> Simulated internal error'}
+2022-02-13 20:57:12,102 - root - INFO - {'message': 'page: 3100 -> Simulated internal error'}
+2022-02-13 20:57:18,904 - root - INFO - {'message': 'page: 3119 -> Simulated internal error'}
+2022-02-13 20:59:07,954 - root - INFO - {'message': 'page: 3441 -> Simulated internal error'}
+2022-02-13 20:59:12,451 - root - INFO - {'message': 'page: 3453 -> Simulated internal error'}
+2022-02-13 20:59:47,822 - root - INFO - {'message': 'page: 3556 -> Simulated internal error'}
+2022-02-13 21:00:41,316 - root - INFO - {'message': 'page: 3713 -> Simulated internal error'}
+2022-02-13 21:01:30,572 - root - INFO - {'message': 'page: 3857 -> Simulated internal error'}
+2022-02-13 21:01:39,613 - root - INFO - {'message': 'page: 3883 -> Simulated internal error'}
+2022-02-13 21:01:58,800 - root - INFO - {'message': 'page: 3938 -> Simulated internal error'}
+2022-02-13 21:02:10,556 - root - INFO - {'message': 'page: 3972 -> Simulated internal error'}
+2022-02-13 21:02:17,983 - root - INFO - {'message': 'page: 3993 -> Simulated internal error'}
+2022-02-13 21:03:16,266 - root - INFO - {'message': 'page: 4167 -> Simulated internal error'}
+2022-02-13 21:03:52,228 - root - INFO - {'message': 'page: 4274 -> Simulated internal error'}
+2022-02-13 21:04:02,747 - root - INFO - {'message': 'page: 4304 -> Simulated internal error'}
+2022-02-13 21:05:41,577 - root - INFO - {'message': 'page: 4598 -> Simulated internal error'}
+2022-02-13 21:07:35,128 - root - INFO - {'message': 'page: 4936 -> Simulated internal error'}
+2022-02-13 21:07:50,362 - root - INFO - {'message': 'page: 4981 -> Simulated internal error'}
+2022-02-13 21:08:15,872 - root - INFO - {'message': 'page: 5056 -> Simulated internal error'}
+2022-02-13 21:08:21,022 - root - INFO - {'message': 'page: 5071 -> Simulated internal error'}
+2022-02-13 21:08:30,121 - root - INFO - {'message': 'page: 5098 -> Simulated internal error'}
+2022-02-13 21:09:58,743 - root - INFO - {'message': 'page: 5361 -> Simulated internal error'}
+2022-02-13 21:10:00,133 - root - INFO - {'message': 'page: 5364 -> Simulated internal error'}
+2022-02-13 21:10:40,724 - root - INFO - {'message': 'page: 5485 -> Simulated internal error'}
+2022-02-13 21:12:37,233 - root - INFO - {'message': 'page: 5830 -> Simulated internal error'}
+2022-02-13 21:13:16,511 - root - INFO - {'message': 'page: 5947 -> Simulated internal error'}
+2022-02-13 21:13:21,562 - root - INFO - {'message': 'page: 5961 -> Simulated internal error'}
+2022-02-13 21:15:02,289 - root - INFO - {'message': 'page: 6260 -> Simulated internal error'}
+2022-02-13 21:15:12,638 - root - INFO - {'message': 'page: 6290 -> Simulated internal error'}
+2022-02-13 21:16:39,371 - root - INFO - {'message': 'page: 6547 -> Simulated internal error'}
+2022-02-13 21:16:47,395 - root - INFO - {'message': 'page: 6570 -> Simulated internal error'}
+2022-02-13 21:17:34,627 - root - INFO - {'message': 'page: 6709 -> Simulated internal error'}
+2022-02-13 21:17:41,995 - root - INFO - {'message': 'page: 6730 -> Simulated internal error'}
+2022-02-13 21:18:00,690 - root - INFO - {'message': 'page: 6785 -> Simulated internal error'}
+2022-02-13 21:18:54,924 - root - INFO - {'message': 'page: 6946 -> Simulated internal error'}
+2022-02-13 21:19:08,758 - root - INFO - {'message': 'page: 6986 -> Simulated internal error'}
+2022-02-13 21:19:33,052 - root - INFO - {'message': 'page: 7058 -> Simulated internal error'}
+2022-02-13 21:20:26,603 - root - INFO - {'message': 'page: 7217 -> Simulated internal error'}
+2022-02-13 21:20:40,809 - root - INFO - {'message': 'page: 7259 -> Simulated internal error'}
+2022-02-13 21:21:07,390 - root - INFO - {'message': 'page: 7336 -> Simulated internal error'}
+2022-02-13 21:21:07,687 - root - INFO - {'message': 'page: 7336 -> Simulated internal error'}
+2022-02-13 21:21:16,102 - root - INFO - {'message': 'page: 7360 -> Simulated internal error'}
+2022-02-13 21:21:59,564 - root - INFO - {'message': 'page: 7488 -> Simulated internal error'}
+2022-02-13 21:22:06,266 - root - INFO - {'message': 'page: 7507 -> Simulated internal error'}
+2022-02-13 21:22:11,201 - root - INFO - {'message': 'page: 7521 -> Simulated internal error'}
+2022-02-13 21:22:27,576 - root - INFO - {'message': 'page: 7569 -> Simulated internal error'}
+2022-02-13 21:22:52,485 - root - INFO - {'message': 'page: 7643 -> Simulated internal error'}
+2022-02-13 21:23:09,138 - root - INFO - {'message': 'page: 7691 -> Simulated internal error'}
+2022-02-13 21:23:18,708 - root - INFO - {'message': 'page: 7719 -> Simulated internal error'}
+2022-02-13 21:23:27,581 - root - INFO - {'message': 'page: 7744 -> Simulated internal error'}
+2022-02-13 21:24:06,398 - root - INFO - {'message': 'page: 7858 -> Simulated internal error'}
+2022-02-13 21:24:40,902 - root - INFO - {'message': 'page: 7959 -> Simulated internal error'}
+2022-02-13 21:25:13,185 - root - INFO - {'message': 'page: 8054 -> Simulated internal error'}
+2022-02-13 21:25:18,292 - root - INFO - {'message': 'page: 8068 -> Simulated internal error'}
+2022-02-13 21:25:25,355 - root - INFO - {'message': 'page: 8088 -> Simulated internal error'}
+2022-02-13 21:25:51,379 - root - INFO - {'message': 'page: 8166 -> Simulated internal error'}
+2022-02-13 21:26:33,063 - root - INFO - {'message': 'page: 8289 -> Simulated internal error'}
+2022-02-13 21:27:02,082 - root - INFO - {'message': 'page: 8374 -> Simulated internal error'}
+2022-02-13 21:27:06,823 - root - INFO - {'message': 'page: 8387 -> Simulated internal error'}
+2022-02-13 21:27:35,557 - root - INFO - {'message': 'page: 8471 -> Simulated internal error'}
+2022-02-13 21:30:05,131 - root - INFO - {'message': 'page: 8859 -> Simulated internal error'}
+2022-02-13 21:30:13,893 - root - INFO - {'message': 'page: 8884 -> Simulated internal error'}
+2022-02-13 21:30:19,637 - root - INFO - {'message': 'page: 8900 -> Simulated internal error'}
+2022-02-13 21:30:58,854 - root - INFO - {'message': 'page: 9015 -> Simulated internal error'}
+2022-02-13 21:31:03,293 - root - INFO - {'message': 'page: 9027 -> Simulated internal error'}
+2022-02-13 21:31:43,891 - root - INFO - {'message': 'page: 9148 -> Simulated internal error'}
+2022-02-13 21:31:53,906 - root - INFO - {'message': 'page: 9177 -> Simulated internal error'}
+2022-02-13 21:31:54,953 - root - INFO - {'message': 'page: 9179 -> Simulated internal error'}
+2022-02-13 21:32:19,992 - root - INFO - {'message': 'page: 9252 -> Simulated internal error'}
+2022-02-13 21:33:33,198 - root - INFO - {'message': 'page: 9466 -> Simulated internal error'}
+2022-02-13 21:34:52,264 - root - INFO - {'message': 'page: 9701 -> Simulated internal error'}
+2022-02-13 21:34:54,295 - root - INFO - {'message': 'page: 9706 -> Simulated internal error'}
+2022-02-13 21:35:18,782 - root - INFO - {'message': 'page: 9778 -> Simulated internal error'}
+2022-02-13 21:35:20,555 - root - INFO - {'message': 'page: 9782 -> Simulated internal error'}
+2022-02-13 21:35:35,746 - root - INFO - {'message': 'page: 9826 -> Simulated internal error'}
+2022-02-13 21:36:07,318 - root - INFO - {'message': 'page: 9919 -> Simulated internal error'}
+2022-02-13 21:36:20,358 - root - INFO - {'message': 'page: 9956 -> Simulated internal error'}
+2022-02-13 21:36:24,442 - root - INFO - {'message': 'page: 9967 -> Simulated internal error'}
+2022-02-13 21:36:35,992 - root - INFO - {'message': 'page: 10000 -> Simulated internal error'}
+2022-02-13 21:36:36,674 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-13 21:36:40,953 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-13 22:50:39,121 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 22:50:48,359 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers?'}
+2022-02-13 22:50:50,422 - root - INFO - {'message': 'page: 6 -> Simulated internal error'}
+2022-02-13 22:52:59,399 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 22:53:15,511 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 22:53:15] "[33mGET / HTTP/1.1[0m" 404 -
+2022-02-13 22:53:15,961 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 22:53:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-02-13 22:53:21,706 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 22:53:21] "[33mGET / HTTP/1.1[0m" 404 -
+2022-02-13 22:54:43,430 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 22:54:43] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 22:58:14,152 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 22:58:34,780 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 22:58:34] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:05:05,808 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:05:05] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:05:15,398 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:05:19,090 - root - INFO - GET data_list
+2022-02-13 23:05:19,092 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:05:19] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:07:46,955 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:07:49,914 - root - INFO - GET data_list
+2022-02-13 23:07:49,915 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 11, in get
+    Numbers.get_data_url()
+AttributeError: type object 'Numbers' has no attribute 'get_data_url'
+2022-02-13 23:07:49,919 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:07:49] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:07:53,802 - root - INFO - GET data_list
+2022-02-13 23:07:53,802 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 11, in get
+    Numbers.get_data_url()
+AttributeError: type object 'Numbers' has no attribute 'get_data_url'
+2022-02-13 23:07:53,802 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:07:53] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:07:56,149 - root - INFO - GET data_list
+2022-02-13 23:07:56,149 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 11, in get
+    Numbers.get_data_url()
+AttributeError: type object 'Numbers' has no attribute 'get_data_url'
+2022-02-13 23:07:56,150 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:07:56] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:07:57,234 - root - INFO - GET data_list
+2022-02-13 23:07:57,234 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 11, in get
+    Numbers.get_data_url()
+AttributeError: type object 'Numbers' has no attribute 'get_data_url'
+2022-02-13 23:07:57,235 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:07:57] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:09:41,765 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:09:44,351 - root - INFO - GET data_list
+2022-02-13 23:09:44,354 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 12, in get
+    Numbers.get_data_url()
+TypeError: Numbers.get_data_url() missing 1 required positional argument: 'self'
+2022-02-13 23:09:44,357 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:09:44] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:11:10,246 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:11:12,022 - root - INFO - GET data_list
+2022-02-13 23:11:12,023 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 13, in get
+    data.get_data_url()
+TypeError: Numbers.get_data_url() missing 1 required positional argument: 'self'
+2022-02-13 23:11:12,026 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:11:12] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:11:16,106 - root - INFO - GET data_list
+2022-02-13 23:11:16,106 - app - ERROR - Exception on /ordered-numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask\views.py", line 84, in view
+    return current_app.ensure_sync(self.dispatch_request)(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\venv\lib\site-packages\flask_restful\__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\Users\felipeRibeiroFreire\Desktop\pythonEstudos\projetos\crossCommerce\resources\model.py", line 13, in get
+    data.get_data_url()
+TypeError: Numbers.get_data_url() missing 1 required positional argument: 'self'
+2022-02-13 23:11:16,107 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:11:16] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:13:49,624 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:13:53,044 - root - INFO - GET data_list
+2022-02-13 23:13:53,046 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:13:53] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:13:57,226 - root - INFO - GET data_list
+2022-02-13 23:13:57,226 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:13:57] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:14:07,858 - root - INFO - GET data_list
+2022-02-13 23:14:07,859 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:14:07] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:14:35,102 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:14:39,536 - root - INFO - GET data_list
+2022-02-13 23:14:39,538 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:14:39] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:14:43,438 - root - INFO - GET data_list
+2022-02-13 23:14:43,439 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:14:43] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:14:44,220 - root - INFO - GET data_list
+2022-02-13 23:14:44,221 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:14:44] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:14:44,881 - root - INFO - GET data_list
+2022-02-13 23:14:44,882 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:14:44] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:15:29,359 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:15:32,330 - root - INFO - GET data_list
+2022-02-13 23:15:32,333 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:15:32] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:15:37,576 - root - INFO - GET data_list
+2022-02-13 23:15:37,577 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:15:37] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:15:59,219 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:16:02,589 - root - INFO - GET data_list
+2022-02-13 23:16:02,591 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:16:02] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:16:09,752 - root - INFO - GET data_list
+2022-02-13 23:16:09,753 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:16:09] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:16:29,625 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:16:40,309 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:16:43,014 - root - INFO - GET data_list
+2022-02-13 23:16:43,378 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:16:43] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:16:47,416 - root - INFO - GET data_list
+2022-02-13 23:16:47,784 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:16:47] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:16:53,821 - root - INFO - GET data_list
+2022-02-13 23:16:54,239 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:16:54] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:17:16,711 - root - INFO - GET data_list
+2022-02-13 23:17:17,075 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:17:17] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:17:21,086 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:17:23,592 - root - INFO - GET data_list
+2022-02-13 23:17:23,974 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:17:23] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:17:51,905 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:17:54,580 - root - INFO - GET data_list
+2022-02-13 23:17:54,933 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:17:54] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:18:34,078 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:18:35,743 - root - INFO - GET data_list
+2022-02-13 23:18:36,093 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:18:36] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:18:50,603 - root - INFO - GET data_list
+2022-02-13 23:18:50,972 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:18:50] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:19:53,176 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:19:53,707 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:19:53,707 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:19:53,769 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:19:57,151 - root - INFO - GET data_list
+2022-02-13 23:19:57,523 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:19:57] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:20:46,789 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\schema\\data.py', reloading
+2022-02-13 23:20:46,882 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:20:47,451 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:20:47,466 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:20:47,529 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:20:51,394 - root - INFO - GET data_list
+2022-02-13 23:20:51,758 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:20:51] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:22:08,992 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:22:09,054 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:22:09,818 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:22:09,833 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:22:09,881 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:22:10,998 - root - INFO - GET data_list
+2022-02-13 23:22:11,385 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:22:11] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:22:50,510 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:22:50,572 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:22:51,248 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:22:51,267 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:22:51,336 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:22:52,248 - root - INFO - GET data_list
+2022-02-13 23:22:52,249 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:22:52] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:24:01,328 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:24:01,379 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:24:01,874 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:24:01,893 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:24:01,942 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:24:07,396 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:24:07,997 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:24:08,011 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:24:08,061 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:24:09,423 - root - INFO - GET data_list
+2022-02-13 23:24:09,424 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:24:09] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-13 23:24:44,459 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:24:44,522 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:24:45,038 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:24:45,059 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:24:45,189 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:24:47,430 - root - INFO - GET data_list
+2022-02-13 23:25:34,481 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:25:34,997 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:25:35,012 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:25:35,059 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:25:37,046 - root - INFO - GET data_list
+2022-02-13 23:25:37,455 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:25:37] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:26:10,374 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:26:10,436 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:26:10,921 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:26:10,936 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:26:10,983 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:26:14,757 - root - INFO - GET data_list
+2022-02-13 23:26:15,135 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:26:15] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:28:52,365 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:28:52,859 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:28:52,875 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:28:52,922 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:28:55,270 - root - INFO - GET data_list
+2022-02-13 23:28:55,677 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:28:55] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:32:37,807 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:32:38,314 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:32:38,346 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:32:38,469 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:32:41,306 - root - INFO - GET data_list
+2022-02-13 23:32:41,656 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:32:41] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:32:43,242 - root - INFO - GET data_list
+2022-02-13 23:32:43,622 - root - INFO - {'message': 'page: 1 -> Simulated internal error'}
+2022-02-13 23:32:43,983 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:32:43] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:32:44,911 - root - INFO - GET data_list
+2022-02-13 23:35:16,617 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:35:16,727 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:35:17,234 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:35:17,250 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:35:17,297 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:35:28,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:35:28,862 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:35:29,369 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:35:29,369 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:35:29,418 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:35:38,829 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:35:38,876 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:35:39,392 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:35:39,407 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:35:39,454 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:35:41,077 - root - INFO - GET data_list
+2022-02-13 23:35:41,447 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:35:41] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:35:47,135 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:35:47,620 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:35:47,620 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:35:47,680 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:36:22,987 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:36:23,050 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:36:23,682 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:36:23,684 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:36:23,763 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:36:27,205 - root - INFO - GET data_list
+2022-02-13 23:36:27,589 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:36:27] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:38:53,464 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:38:53,964 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:38:53,980 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:38:54,042 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:38:57,030 - root - INFO - GET data_list
+2022-02-13 23:38:57,644 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:38:57] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:40:36,995 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:40:37,057 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:40:37,698 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:40:37,714 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:40:37,761 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:40:39,909 - root - INFO - GET data_list
+2022-02-13 23:40:40,859 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:40:40] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:43:30,989 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:43:31,049 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:43:31,677 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:43:31,691 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:43:31,734 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:52:24,335 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-13 23:52:24,429 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:52:25,374 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:52:25,380 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:52:25,441 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:52:33,596 - root - INFO - GET data_list
+2022-02-13 23:52:34,226 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:52:34] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:52:50,328 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:52:50,812 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:52:50,828 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:52:50,875 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:52:56,784 - root - INFO - GET data_list
+2022-02-13 23:52:57,417 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:52:57] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:53:14,793 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:53:15,404 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:53:15,404 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:53:15,451 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:53:19,121 - root - INFO - GET data_list
+2022-02-13 23:53:19,743 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:53:19] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:54:32,388 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:54:32,544 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:54:33,059 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:54:33,075 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:54:33,122 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:54:38,333 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:54:38,411 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:54:38,896 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:54:38,911 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:54:38,958 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:54:50,375 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:54:50,891 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:54:50,904 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:54:50,967 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:54:53,183 - root - INFO - GET data_list
+2022-02-13 23:54:53,799 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:54:53] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:56:20,262 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:56:20,325 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:56:20,825 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:56:20,841 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:56:20,887 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:56:23,914 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:56:24,419 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:56:24,434 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:56:24,488 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-13 23:56:27,219 - root - INFO - GET data_list
+2022-02-13 23:56:37,837 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2022 23:56:37] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-13 23:57:20,649 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-13 23:57:20,727 - werkzeug - INFO -  * Restarting with stat
+2022-02-13 23:57:21,225 - werkzeug - WARNING -  * Debugger is active!
+2022-02-13 23:57:21,241 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-13 23:57:21,288 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:00:02,292 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\app.py', reloading
+2022-02-14 00:00:02,355 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:00:02,808 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:00:56,448 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:00:56,839 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:00:56,839 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:00:56,870 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:00:57,401 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:00:57,708 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:00:57,708 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:00:57,708 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:00:57,724 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:00:57,771 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:01:37,149 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\app.py', reloading
+2022-02-14 00:01:37,211 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:01:37,712 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:01:38,087 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:01:38,087 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:01:38,103 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:01:38,118 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:01:38,165 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:01:46,448 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:01:46,809 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:01:46,809 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:01:46,825 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:01:47,294 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:01:47,648 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:01:47,648 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:01:47,664 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:01:47,680 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:01:47,711 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:02:52,337 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:02:52,727 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:02:52,727 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:02:52,743 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:02:53,215 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:02:53,575 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:02:53,575 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:02:53,590 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:02:53,590 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:02:53,637 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:03:22,798 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\app.py', reloading
+2022-02-14 00:03:22,876 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:03:23,345 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:03:23,689 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:03:23,689 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:03:23,704 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:03:23,720 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:03:23,782 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:04:05,180 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:04:05,541 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:04:05,541 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:04:05,556 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:04:06,029 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:04:06,404 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:04:06,404 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:04:06,419 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:04:06,419 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:04:06,466 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:04:24,962 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:04:25,296 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:04:25,296 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:04:25,312 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:04:25,765 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:04:26,109 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:04:26,109 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:04:26,124 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:04:26,140 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:04:26,187 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:06:25,441 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:06:25,816 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:07:18,104 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,510 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:18,525 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:07:18,541 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:07:19,104 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,432 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:07:19,447 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:07:19,463 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:07:19,463 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:07:19,510 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:09:00,543 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,893 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:00,908 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:09:00,924 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:09:01,408 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,721 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:09:01,736 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:09:01,752 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:09:01,752 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:09:01,799 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:10:35,330 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-14 00:10:35,384 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:10:36,059 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:10:36,437 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:10:36,437 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,438 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,439 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,440 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,441 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,442 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,446 - root - INFO - {'message': 'empty data list'}
+2022-02-14 00:10:36,447 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:10:36,460 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:10:36,474 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:10:36,530 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:10:42,605 - root - INFO - GET data_list
+2022-02-14 00:10:42,948 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 00:10:42] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 00:12:02,772 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:12:03,116 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:12:03,116 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:12:03,131 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:12:03,600 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:12:03,928 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:12:03,928 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:12:03,944 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:12:03,960 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:12:04,006 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:12:12,389 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:12:12,764 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:12:12,764 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:12:12,780 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:12:13,217 - root - INFO - {'message': 'iniciando chamadas http://challenge.dienekes.com.br/api/numbers'}
+2022-02-14 00:12:13,561 - root - INFO - {'message': 'iniciando ordenação rapida'}
+2022-02-14 00:12:13,561 - root - INFO - {'message': 'ordenação rapida finalizada'}
+2022-02-14 00:12:13,576 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:12:13,592 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:12:13,639 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:13:36,726 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\app.py', reloading
+2022-02-14 00:13:36,789 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:13:37,304 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:13:37,320 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:13:37,383 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:13:43,592 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\app.py', reloading
+2022-02-14 00:13:43,654 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:13:44,154 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:13:44,170 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:13:44,233 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:13:50,879 - root - INFO - GET data_list
+2022-02-14 00:13:51,245 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 00:13:51] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 00:14:09,429 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:14:09,913 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:14:09,929 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:14:09,976 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:14:12,703 - root - INFO - GET data_list
+2022-02-14 00:14:13,088 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 00:14:13] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 00:14:36,381 - root - INFO - GET data_list
+2022-02-14 00:14:36,724 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 00:14:36] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 00:14:37,509 - root - INFO - GET data_list
+2022-02-14 00:15:14,126 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 00:15:14,677 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 00:15:14,691 - werkzeug - INFO -  * Debugger PIN: 639-709-054
+2022-02-14 00:15:14,740 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 00:15:19,241 - root - INFO - GET data_list
+2022-02-14 00:15:19,604 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 00:15:19] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 15:48:42,914 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:48:43,414 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:48:43,492 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:48:43,601 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:49:10,803 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:49:11,303 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:49:11,319 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:49:11,366 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:50:32,696 - root - INFO - GET data_list
+2022-02-14 15:51:06,196 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 15:51:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 15:55:28,786 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:28,848 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:29,317 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:29,317 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:29,364 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:55:32,528 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:32,575 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:33,095 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:33,110 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:33,146 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:55:43,503 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:43,565 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:44,047 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:44,060 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:44,105 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:55:49,314 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:49,368 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:49,880 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:49,880 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:49,926 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:55:53,044 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:53,091 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:53,567 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:53,583 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:53,629 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:55:56,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:55:56,854 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:55:57,411 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:55:57,411 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:55:57,458 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:56:00,656 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:56:00,732 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:56:01,284 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:56:01,298 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:56:01,354 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 15:56:10,667 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test\\test.py', reloading
+2022-02-14 15:56:10,714 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 15:56:11,230 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 15:56:11,245 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 15:56:11,292 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 16:57:11,138 - root - INFO - {'message': 'page: 26 -> Simulated internal error'}
+2022-02-14 16:57:29,850 - root - INFO - {'message': 'page: 80 -> Simulated internal error'}
+2022-02-14 16:58:56,690 - root - INFO - {'message': 'page: 40 -> Simulated internal error'}
+2022-02-14 16:59:13,324 - root - INFO - {'message': 'page: 88 -> Simulated internal error'}
+2022-02-14 17:13:46,893 - root - INFO - {'message': 'page: 80 -> Simulated internal error'}
+2022-02-14 17:22:06,796 - root - INFO - {'message': 'page: 58 -> Simulated internal error'}
+2022-02-14 17:22:17,428 - root - INFO - {'message': 'page: 89 -> Simulated internal error'}
+2022-02-14 17:52:13,762 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:14,300 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:14,646 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:15,005 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:15,302 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:15,646 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:16,005 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:16,333 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:16,677 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:17,005 - root - INFO - {'message': 'page: 9 -> Simulated internal error'}
+2022-02-14 17:52:17,005 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:17,365 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:17,708 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:18,005 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:18,365 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:18,740 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:19,068 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:19,380 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:19,724 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:20,068 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:52:20,380 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:15,419 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:15,435 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 17:56:15,763 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:15,951 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:15,966 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 17:56:15,982 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 17:56:16,029 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 17:56:16,107 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:16,279 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:16,435 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:16,607 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:16,763 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:16,951 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:17,107 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:17,294 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:17,404 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:17,669 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:17,763 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,013 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,091 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,373 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,419 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,732 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:18,794 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,044 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,107 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,357 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,451 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,734 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:19,734 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,062 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,062 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,359 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,390 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,703 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,703 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:20,999 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:21,015 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:21,359 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:21,374 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:21,671 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:21,749 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,015 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,062 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,374 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,421 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,749 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:22,765 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,046 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,078 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,390 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,390 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,718 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:23,718 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,031 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,078 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,369 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,436 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,717 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:24,796 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,066 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,146 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,436 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,786 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:25,856 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,146 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,216 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,436 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,536 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,796 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:26,861 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,147 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,194 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,834 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:27,866 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,178 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,272 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,475 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,600 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,788 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:28,928 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,084 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,241 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,428 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,584 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,772 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:29,959 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,100 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,272 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,428 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,600 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,756 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:30,959 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,116 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,334 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,459 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,662 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,819 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:31,975 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,272 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,319 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,584 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,647 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,897 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:32,991 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:33,241 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:33,303 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:33,569 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:33,678 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:33,897 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,022 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,178 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,381 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,522 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,709 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:34,834 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,006 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,209 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,366 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,584 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,694 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:35,881 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,022 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,194 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,381 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,709 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:36,834 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,053 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,178 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,413 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,725 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:37,834 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,038 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,178 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,381 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,491 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,709 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:38,866 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,038 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,194 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,412 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,506 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,709 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:39,834 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,084 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,162 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,395 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,488 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,723 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:40,832 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,066 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,176 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,348 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,504 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,676 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:41,832 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,004 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,176 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,316 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,504 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,645 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,832 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:42,988 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:43,176 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:43,316 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:43,535 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:43,629 - root - INFO - {'message': 'page: 84 -> Simulated internal error'}
+2022-02-14 17:56:43,629 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:43,863 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,004 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,207 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,363 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,520 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,723 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:44,816 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,066 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,145 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,395 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,473 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,738 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:45,832 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,066 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,176 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,395 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,535 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,723 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:46,895 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,082 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,238 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,410 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,566 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,754 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:47,895 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,098 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,238 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,473 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,629 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,801 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:48,957 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:53,301 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 17:56:53,332 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:54,629 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 17:56:54,645 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 17:56:54,660 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 17:56:55,301 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 17:56:59,609 - root - INFO - {'message': 'page: 18 -> Simulated internal error'}
+2022-02-14 17:57:16,577 - root - INFO - GET data_list
+2022-02-14 17:57:16,696 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 17:57:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 17:57:19,801 - root - INFO - GET data_list
+2022-02-14 17:57:19,939 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 17:57:19] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 17:57:21,783 - root - INFO - GET data_list
+2022-02-14 17:57:21,935 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 17:57:21] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 17:57:53,723 - root - INFO - {'message': 'page: 176 -> Simulated internal error'}
+2022-02-14 17:57:56,551 - root - INFO - {'message': 'page: 181 -> Simulated internal error'}
+2022-02-14 17:58:14,660 - root - INFO - {'message': 'page: 237 -> Simulated internal error'}
+2022-02-14 17:58:27,548 - root - INFO - {'message': 'page: 274 -> Simulated internal error'}
+2022-02-14 17:58:42,590 - root - INFO - {'message': 'page: 316 -> Simulated internal error'}
+2022-02-14 17:58:47,216 - root - INFO - {'message': 'page: 329 -> Simulated internal error'}
+2022-02-14 17:59:02,803 - root - INFO - {'message': 'page: 374 -> Simulated internal error'}
+2022-02-14 17:59:05,163 - root - INFO - {'message': 'page: 380 -> Simulated internal error'}
+2022-02-14 17:59:06,116 - root - INFO - {'message': 'page: 385 -> Simulated internal error'}
+2022-02-14 17:59:20,258 - root - INFO - {'message': 'page: 425 -> Simulated internal error'}
+2022-02-14 17:59:46,139 - root - INFO - {'message': 'page: 498 -> Simulated internal error'}
+2022-02-14 17:59:52,983 - root - INFO - {'message': 'page: 517 -> Simulated internal error'}
+2022-02-14 18:00:45,125 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:00:45,140 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 18:00:45,593 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:00:45,609 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 18:00:45,625 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 18:00:45,703 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 18:00:54,548 - root - INFO - GET data_list
+2022-02-14 18:00:54,561 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:00:54] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:00:55,991 - root - INFO - GET data_list
+2022-02-14 18:00:56,004 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:00:56] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:00:57,097 - root - INFO - GET data_list
+2022-02-14 18:00:57,109 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:00:57] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:00:57,949 - root - INFO - {'message': 'page: 37 -> Simulated internal error'}
+2022-02-14 18:00:58,407 - root - INFO - GET data_list
+2022-02-14 18:00:58,420 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:00:58] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:00:59,762 - root - INFO - GET data_list
+2022-02-14 18:00:59,776 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:00:59] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:06,826 - root - INFO - GET data_list
+2022-02-14 18:01:06,846 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:07,845 - root - INFO - GET data_list
+2022-02-14 18:01:07,867 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:07] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:08,710 - root - INFO - GET data_list
+2022-02-14 18:01:08,735 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:08] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:09,443 - root - INFO - {'message': 'page: 67 -> Simulated internal error'}
+2022-02-14 18:01:09,677 - root - INFO - GET data_list
+2022-02-14 18:01:09,700 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:09] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:10,518 - root - INFO - GET data_list
+2022-02-14 18:01:10,546 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:10] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:11,195 - root - INFO - {'message': 'page: 71 -> Simulated internal error'}
+2022-02-14 18:01:11,325 - root - INFO - GET data_list
+2022-02-14 18:01:11,350 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:11] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:12,138 - root - INFO - GET data_list
+2022-02-14 18:01:12,166 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:12] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:13,007 - root - INFO - GET data_list
+2022-02-14 18:01:13,033 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:13] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:13,663 - root - INFO - GET data_list
+2022-02-14 18:01:13,691 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:13] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:14,330 - root - INFO - GET data_list
+2022-02-14 18:01:14,358 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:14] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:15,022 - root - INFO - GET data_list
+2022-02-14 18:01:15,051 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:15] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:15,549 - root - INFO - GET data_list
+2022-02-14 18:01:15,584 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:15] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:16,079 - root - INFO - {'message': 'page: 85 -> Simulated internal error'}
+2022-02-14 18:01:16,097 - root - INFO - GET data_list
+2022-02-14 18:01:16,128 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:16,555 - root - INFO - GET data_list
+2022-02-14 18:01:16,587 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:17,269 - root - INFO - GET data_list
+2022-02-14 18:01:17,300 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:01:17] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:01:28,953 - root - INFO - {'message': 'page: 130 -> Simulated internal error'}
+2022-02-14 18:01:30,656 - root - INFO - {'message': 'page: 134 -> Simulated internal error'}
+2022-02-14 18:01:47,775 - root - INFO - {'message': 'page: 185 -> Simulated internal error'}
+2022-02-14 18:01:57,246 - root - INFO - {'message': 'page: 207 -> Simulated internal error'}
+2022-02-14 18:02:00,213 - root - INFO - {'message': 'page: 215 -> Simulated internal error'}
+2022-02-14 18:02:20,586 - root - INFO - {'message': 'page: 274 -> Simulated internal error'}
+2022-02-14 18:02:23,055 - root - INFO - {'message': 'page: 287 -> Simulated internal error'}
+2022-02-14 18:02:27,149 - root - INFO - {'message': 'page: 293 -> Simulated internal error'}
+2022-02-14 18:02:36,070 - root - INFO - {'message': 'page: 326 -> Simulated internal error'}
+2022-02-14 18:02:50,591 - root - INFO - {'message': 'page: 369 -> Simulated internal error'}
+2022-02-14 18:02:56,482 - root - INFO - {'message': 'page: 386 -> Simulated internal error'}
+2022-02-14 18:03:58,151 - root - INFO - {'message': 'page: 565 -> Simulated internal error'}
+2022-02-14 18:04:02,185 - root - INFO - {'message': 'page: 576 -> Simulated internal error'}
+2022-02-14 18:04:15,364 - root - INFO - {'message': 'page: 620 -> Simulated internal error'}
+2022-02-14 18:04:20,284 - root - INFO - {'message': 'page: 634 -> Simulated internal error'}
+2022-02-14 18:04:58,420 - root - INFO - {'message': 'page: 747 -> Simulated internal error'}
+2022-02-14 18:05:06,383 - root - INFO - {'message': 'page: 770 -> Simulated internal error'}
+2022-02-14 18:05:21,898 - root - INFO - GET data_list
+2022-02-14 18:05:22,269 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:05:22] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:05:24,954 - root - INFO - {'message': 'page: 823 -> Simulated internal error'}
+2022-02-14 18:05:25,599 - root - INFO - {'message': 'page: 826 -> Simulated internal error'}
+2022-02-14 18:05:33,882 - root - INFO - GET data_list
+2022-02-14 18:05:34,252 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:05:34] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:05:45,676 - root - INFO - {'message': 'page: 885 -> Simulated internal error'}
+2022-02-14 18:05:56,285 - root - INFO - {'message': 'page: 916 -> Simulated internal error'}
+2022-02-14 18:06:31,014 - root - INFO - {'message': 'page: 1018 -> Simulated internal error'}
+2022-02-14 18:06:36,389 - root - INFO - {'message': 'page: 1033 -> Simulated internal error'}
+2022-02-14 18:06:42,499 - root - INFO - {'message': 'page: 1050 -> Simulated internal error'}
+2022-02-14 18:07:12,369 - root - INFO - {'message': 'page: 1128 -> Simulated internal error'}
+2022-02-14 18:08:10,612 - root - INFO - GET data_list
+2022-02-14 18:08:11,203 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:08:11] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:08:28,325 - root - INFO - {'message': 'page: 1344 -> Simulated internal error'}
+2022-02-14 18:08:46,731 - root - INFO - {'message': 'page: 1391 -> Simulated internal error'}
+2022-02-14 18:08:50,027 - root - INFO - {'message': 'page: 1400 -> Simulated internal error'}
+2022-02-14 18:08:51,699 - root - INFO - {'message': 'page: 1404 -> Simulated internal error'}
+2022-02-14 18:08:55,214 - root - INFO - {'message': 'page: 1413 -> Simulated internal error'}
+2022-02-14 18:09:06,019 - root - INFO - GET data_list
+2022-02-14 18:09:06,713 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:09:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:09:49,523 - root - INFO - {'message': 'page: 1576 -> Simulated internal error'}
+2022-02-14 18:10:25,311 - root - INFO - {'message': 'page: 1677 -> Simulated internal error'}
+2022-02-14 18:10:34,445 - root - INFO - {'message': 'page: 1703 -> Simulated internal error'}
+2022-02-14 18:10:38,972 - root - INFO - {'message': 'page: 1722 -> Simulated internal error'}
+2022-02-14 18:10:39,285 - root - INFO - {'message': 'page: 1717 -> Simulated internal error'}
+2022-02-14 18:11:43,750 - root - INFO - {'message': 'page: 1885 -> Simulated internal error'}
+2022-02-14 18:12:00,141 - root - INFO - {'message': 'page: 1933 -> Simulated internal error'}
+2022-02-14 18:12:07,818 - root - INFO - {'message': 'page: 1955 -> Simulated internal error'}
+2022-02-14 18:12:28,330 - root - INFO - {'message': 'page: 2015 -> Simulated internal error'}
+2022-02-14 18:12:28,424 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-14 18:12:33,397 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:12:33,413 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 18:12:33,850 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:12:33,866 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 18:12:33,881 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 18:12:33,928 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 18:12:45,827 - root - INFO - {'message': 'page: 37 -> Simulated internal error'}
+2022-02-14 18:12:51,648 - root - INFO - GET data_list
+2022-02-14 18:12:51,661 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:12:51] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:12:54,426 - root - INFO - GET data_list
+2022-02-14 18:12:54,440 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:12:54] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:12:55,937 - root - INFO - GET data_list
+2022-02-14 18:12:55,954 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:12:55] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:13:00,833 - root - INFO - {'message': 'page: 80 -> Simulated internal error'}
+2022-02-14 18:13:06,447 - root - INFO - {'message': 'page: 97 -> Simulated internal error'}
+2022-02-14 18:13:16,665 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-14 18:13:21,939 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:13:21,955 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 18:13:22,423 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:13:22,439 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 18:13:22,455 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 18:13:22,501 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 18:14:11,154 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:14:11,185 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 18:14:11,794 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:14:11,810 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 18:14:11,825 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 18:14:11,872 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 18:14:16,079 - root - INFO - GET data_list
+2022-02-14 18:14:16,085 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:14:16,524 - root - INFO - {'message': 'page: 14 -> Simulated internal error'}
+2022-02-14 18:14:24,274 - root - INFO - GET data_list
+2022-02-14 18:14:24,288 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:24] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:14:24,736 - root - INFO - {'message': 'page: 37 -> Simulated internal error'}
+2022-02-14 18:14:29,226 - root - INFO - {'message': 'page: 52 -> Simulated internal error'}
+2022-02-14 18:14:41,273 - root - INFO - GET data_list
+2022-02-14 18:14:41,306 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:41] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:14:42,388 - root - INFO - {'message': 'page: 90 -> Simulated internal error'}
+2022-02-14 18:14:43,735 - root - INFO - {'message': 'page: 93 -> Simulated internal error'}
+2022-02-14 18:14:52,570 - root - INFO - GET data_list
+2022-02-14 18:14:52,615 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:52] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:14:55,350 - root - INFO - GET data_list
+2022-02-14 18:14:55,400 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:55] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:14:57,144 - root - INFO - GET data_list
+2022-02-14 18:14:57,191 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:14:57] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:05,177 - root - INFO - {'message': 'page: 154 -> Simulated internal error'}
+2022-02-14 18:15:06,879 - root - INFO - {'message': 'page: 158 -> Simulated internal error'}
+2022-02-14 18:15:32,301 - root - INFO - {'message': 'page: 231 -> Simulated internal error'}
+2022-02-14 18:15:32,895 - root - INFO - {'message': 'page: 235 -> Simulated internal error'}
+2022-02-14 18:15:33,214 - root - INFO - {'message': 'page: 235 -> Simulated internal error'}
+2022-02-14 18:15:49,701 - root - INFO - GET data_list
+2022-02-14 18:15:49,812 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:49] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:51,513 - root - INFO - GET data_list
+2022-02-14 18:15:51,629 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:51] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:53,324 - root - INFO - GET data_list
+2022-02-14 18:15:53,438 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:53] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:55,320 - root - INFO - GET data_list
+2022-02-14 18:15:55,439 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:55] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:56,561 - root - INFO - GET data_list
+2022-02-14 18:15:56,682 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:56] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:57,679 - root - INFO - GET data_list
+2022-02-14 18:15:57,802 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:57] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:58,145 - root - INFO - {'message': 'page: 308 -> Simulated internal error'}
+2022-02-14 18:15:58,696 - root - INFO - GET data_list
+2022-02-14 18:15:58,825 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:58] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:15:59,863 - root - INFO - GET data_list
+2022-02-14 18:15:59,990 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:15:59] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:16:18,399 - root - INFO - {'message': 'page: 367 -> Simulated internal error'}
+2022-02-14 18:16:30,700 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:16:30,778 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 18:16:31,404 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 18:16:31,421 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 18:16:31,437 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 18:16:31,486 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 18:16:35,003 - root - INFO - GET data_list
+2022-02-14 18:16:35,008 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:16:35] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:16:53,937 - root - INFO - GET data_list
+2022-02-14 18:16:53,963 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:16:53] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:05,226 - root - INFO - GET data_list
+2022-02-14 18:17:05,265 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:05] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:08,328 - root - INFO - {'message': 'page: 112 -> Simulated internal error'}
+2022-02-14 18:17:15,320 - root - INFO - {'message': 'page: 132 -> Simulated internal error'}
+2022-02-14 18:17:16,554 - root - INFO - GET data_list
+2022-02-14 18:17:16,605 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:24,394 - root - INFO - {'message': 'page: 152 -> Simulated internal error'}
+2022-02-14 18:17:26,003 - root - INFO - {'message': 'page: 156 -> Simulated internal error'}
+2022-02-14 18:17:29,634 - root - INFO - GET data_list
+2022-02-14 18:17:29,697 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:29] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:30,859 - root - INFO - GET data_list
+2022-02-14 18:17:30,926 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:30] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:39,297 - root - INFO - GET data_list
+2022-02-14 18:17:39,375 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:39] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:17:41,934 - root - INFO - {'message': 'page: 201 -> Simulated internal error'}
+2022-02-14 18:17:51,422 - root - INFO - GET data_list
+2022-02-14 18:17:51,516 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:17:51] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:18:05,246 - root - INFO - GET data_list
+2022-02-14 18:18:05,356 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 18:18:05] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 18:18:30,923 - root - INFO - {'message': 'page: 345 -> Simulated internal error'}
+2022-02-14 18:18:47,162 - root - INFO - {'message': 'page: 394 -> Simulated internal error'}
+2022-02-14 18:18:57,893 - root - INFO - {'message': 'page: 424 -> Simulated internal error'}
+2022-02-14 18:19:01,980 - root - INFO - {'message': 'page: 436 -> Simulated internal error'}
+2022-02-14 18:20:08,665 - root - INFO - {'message': 'page: 633 -> Simulated internal error'}
+2022-02-14 18:20:38,518 - root - INFO - {'message': 'page: 711 -> Simulated internal error'}
+2022-02-14 18:21:04,848 - root - INFO - {'message': 'page: 786 -> Simulated internal error'}
+2022-02-14 18:21:07,551 - root - INFO - {'message': 'page: 793 -> Simulated internal error'}
+2022-02-14 18:21:34,504 - root - INFO - {'message': 'page: 875 -> Simulated internal error'}
+2022-02-14 18:21:57,849 - root - INFO - {'message': 'page: 942 -> Simulated internal error'}
+2022-02-14 18:22:04,666 - root - INFO - {'message': 'page: 961 -> Simulated internal error'}
+2022-02-14 18:22:23,552 - root - INFO - {'message': 'page: 1022 -> Simulated internal error'}
+2022-02-14 18:22:45,187 - root - INFO - {'message': 'page: 1078 -> Simulated internal error'}
+2022-02-14 18:22:48,430 - root - INFO - {'message': 'page: 1092 -> Simulated internal error'}
+2022-02-14 18:23:15,651 - root - INFO - {'message': 'page: 1168 -> Simulated internal error'}
+2022-02-14 18:23:19,933 - root - INFO - {'message': 'page: 1179 -> Simulated internal error'}
+2022-02-14 18:23:21,770 - root - INFO - {'message': 'page: 1183 -> Simulated internal error'}
+2022-02-14 18:23:23,645 - root - INFO - {'message': 'page: 1196 -> Simulated internal error'}
+2022-02-14 18:23:43,268 - root - INFO - {'message': 'page: 1244 -> Simulated internal error'}
+2022-02-14 18:24:04,417 - root - INFO - {'message': 'page: 1303 -> Simulated internal error'}
+2022-02-14 18:25:19,152 - root - INFO - {'message': 'page: 1522 -> Simulated internal error'}
+2022-02-14 18:26:04,344 - root - INFO - {'message': 'page: 1657 -> Simulated internal error'}
+2022-02-14 18:26:06,511 - root - INFO - {'message': 'page: 1662 -> Simulated internal error'}
+2022-02-14 18:26:17,058 - root - INFO - {'message': 'page: 1694 -> Simulated internal error'}
+2022-02-14 18:26:34,584 - root - INFO - {'message': 'page: 1736 -> Simulated internal error'}
+2022-02-14 18:26:39,022 - root - INFO - {'message': 'page: 1752 -> Simulated internal error'}
+2022-02-14 18:27:19,949 - root - INFO - {'message': 'page: 1865 -> Simulated internal error'}
+2022-02-14 18:27:30,976 - root - INFO - {'message': 'page: 1897 -> Simulated internal error'}
+2022-02-14 18:27:33,148 - root - INFO - {'message': 'page: 1903 -> Simulated internal error'}
+2022-02-14 18:28:01,770 - root - INFO - {'message': 'page: 1988 -> Simulated internal error'}
+2022-02-14 18:29:05,012 - root - INFO - {'message': 'page: 2174 -> Simulated internal error'}
+2022-02-14 18:29:07,137 - root - INFO - {'message': 'page: 2184 -> Simulated internal error'}
+2022-02-14 18:29:09,438 - root - INFO - {'message': 'page: 2186 -> Simulated internal error'}
+2022-02-14 18:29:15,463 - root - INFO - {'message': 'page: 2208 -> Simulated internal error'}
+2022-02-14 18:29:20,119 - root - INFO - {'message': 'page: 2217 -> Simulated internal error'}
+2022-02-14 18:29:27,807 - root - INFO - {'message': 'page: 2241 -> Simulated internal error'}
+2022-02-14 18:29:55,791 - root - INFO - {'message': 'page: 2324 -> Simulated internal error'}
+2022-02-14 18:30:41,190 - root - INFO - {'message': 'page: 2445 -> Simulated internal error'}
+2022-02-14 18:30:55,401 - root - INFO - {'message': 'page: 2497 -> Simulated internal error'}
+2022-02-14 18:31:16,664 - root - INFO - {'message': 'page: 2557 -> Simulated internal error'}
+2022-02-14 18:31:22,384 - root - INFO - {'message': 'page: 2573 -> Simulated internal error'}
+2022-02-14 18:31:23,540 - root - INFO - {'message': 'page: 2568 -> Simulated internal error'}
+2022-02-14 18:31:40,163 - root - INFO - {'message': 'page: 2625 -> Simulated internal error'}
+2022-02-14 18:31:57,929 - root - INFO - {'message': 'page: 2671 -> Simulated internal error'}
+2022-02-14 18:32:03,484 - root - INFO - {'message': 'page: 2684 -> Simulated internal error'}
+2022-02-14 18:32:09,843 - root - INFO - {'message': 'page: 2703 -> Simulated internal error'}
+2022-02-14 18:32:20,823 - root - INFO - {'message': 'page: 2735 -> Simulated internal error'}
+2022-02-14 18:32:22,199 - root - INFO - {'message': 'page: 2738 -> Simulated internal error'}
+2022-02-14 18:33:01,425 - root - INFO - {'message': 'page: 2855 -> Simulated internal error'}
+2022-02-14 18:33:05,454 - root - INFO - {'message': 'page: 2868 -> Simulated internal error'}
+2022-02-14 18:33:08,767 - root - INFO - {'message': 'page: 2877 -> Simulated internal error'}
+2022-02-14 18:33:10,845 - root - INFO - {'message': 'page: 2882 -> Simulated internal error'}
+2022-02-14 18:33:20,757 - root - INFO - {'message': 'page: 2912 -> Simulated internal error'}
+2022-02-14 18:33:23,727 - root - INFO - {'message': 'page: 2920 -> Simulated internal error'}
+2022-02-14 18:33:24,868 - root - INFO - {'message': 'page: 2920 -> Simulated internal error'}
+2022-02-14 18:33:31,477 - root - INFO - {'message': 'page: 2933 -> Simulated internal error'}
+2022-02-14 18:33:31,821 - root - INFO - {'message': 'page: 2933 -> Simulated internal error'}
+2022-02-14 18:33:58,055 - root - INFO - {'message': 'page: 3011 -> Simulated internal error'}
+2022-02-14 18:34:20,294 - root - INFO - {'message': 'page: 3078 -> Simulated internal error'}
+2022-02-14 18:34:42,190 - root - INFO - {'message': 'page: 3140 -> Simulated internal error'}
+2022-02-14 18:34:57,569 - root - INFO - {'message': 'page: 3183 -> Simulated internal error'}
+2022-02-14 18:35:13,850 - root - INFO - {'message': 'page: 3231 -> Simulated internal error'}
+2022-02-14 18:36:36,866 - root - INFO - {'message': 'page: 3484 -> Simulated internal error'}
+2022-02-14 18:36:47,239 - root - INFO - {'message': 'page: 3511 -> Simulated internal error'}
+2022-02-14 18:37:21,211 - root - INFO - {'message': 'page: 3603 -> Simulated internal error'}
+2022-02-14 18:37:41,092 - root - INFO - {'message': 'page: 3660 -> Simulated internal error'}
+2022-02-14 18:38:02,664 - root - INFO - {'message': 'page: 3723 -> Simulated internal error'}
+2022-02-14 18:38:05,273 - root - INFO - {'message': 'page: 3730 -> Simulated internal error'}
+2022-02-14 18:38:08,601 - root - INFO - {'message': 'page: 3739 -> Simulated internal error'}
+2022-02-14 18:38:22,723 - root - INFO - {'message': 'page: 3779 -> Simulated internal error'}
+2022-02-14 18:38:30,271 - root - INFO - {'message': 'page: 3801 -> Simulated internal error'}
+2022-02-14 18:38:42,292 - root - INFO - {'message': 'page: 3836 -> Simulated internal error'}
+2022-02-14 18:39:01,418 - root - INFO - {'message': 'page: 3892 -> Simulated internal error'}
+2022-02-14 18:39:51,319 - root - INFO - {'message': 'page: 4048 -> Simulated internal error'}
+2022-02-14 18:39:55,538 - root - INFO - {'message': 'page: 4060 -> Simulated internal error'}
+2022-02-14 18:40:01,607 - root - INFO - {'message': 'page: 4074 -> Simulated internal error'}
+2022-02-14 18:40:07,011 - root - INFO - {'message': 'page: 4089 -> Simulated internal error'}
+2022-02-14 18:41:02,223 - root - INFO - {'message': 'page: 4247 -> Simulated internal error'}
+2022-02-14 18:41:24,891 - root - INFO - {'message': 'page: 4317 -> Simulated internal error'}
+2022-02-14 18:42:26,839 - root - INFO - {'message': 'page: 4501 -> Simulated internal error'}
+2022-02-14 18:42:58,534 - root - INFO - {'message': 'page: 4595 -> Simulated internal error'}
+2022-02-14 18:43:33,675 - root - INFO - {'message': 'page: 4696 -> Simulated internal error'}
+2022-02-14 18:43:35,729 - root - INFO - {'message': 'page: 4698 -> Simulated internal error'}
+2022-02-14 18:43:39,822 - root - INFO - {'message': 'page: 4709 -> Simulated internal error'}
+2022-02-14 18:43:52,037 - root - INFO - {'message': 'page: 4742 -> Simulated internal error'}
+2022-02-14 18:44:03,234 - root - INFO - {'message': 'page: 4776 -> Simulated internal error'}
+2022-02-14 18:44:30,614 - root - INFO - {'message': 'page: 4858 -> Simulated internal error'}
+2022-02-14 18:45:01,314 - root - INFO - {'message': 'page: 4949 -> Simulated internal error'}
+2022-02-14 18:45:09,115 - root - INFO - {'message': 'page: 4971 -> Simulated internal error'}
+2022-02-14 18:45:25,900 - root - INFO - {'message': 'page: 5020 -> Simulated internal error'}
+2022-02-14 18:46:05,613 - root - INFO - {'message': 'page: 5131 -> Simulated internal error'}
+2022-02-14 18:46:13,370 - root - INFO - {'message': 'page: 5162 -> Simulated internal error'}
+2022-02-14 18:46:24,319 - root - INFO - {'message': 'page: 5195 -> Simulated internal error'}
+2022-02-14 18:46:29,476 - root - INFO - {'message': 'page: 5209 -> Simulated internal error'}
+2022-02-14 18:46:32,659 - root - INFO - {'message': 'page: 5211 -> Simulated internal error'}
+2022-02-14 18:47:26,076 - root - INFO - {'message': 'page: 5376 -> Simulated internal error'}
+2022-02-14 18:47:29,488 - root - INFO - {'message': 'page: 5385 -> Simulated internal error'}
+2022-02-14 18:47:40,332 - root - INFO - {'message': 'page: 5416 -> Simulated internal error'}
+2022-02-14 18:47:51,568 - root - INFO - {'message': 'page: 5439 -> Simulated internal error'}
+2022-02-14 18:48:02,409 - root - INFO - {'message': 'page: 5481 -> Simulated internal error'}
+2022-02-14 18:48:08,810 - root - INFO - {'message': 'page: 5490 -> Simulated internal error'}
+2022-02-14 18:48:12,044 - root - INFO - {'message': 'page: 5509 -> Simulated internal error'}
+2022-02-14 18:48:23,454 - root - INFO - {'message': 'page: 5542 -> Simulated internal error'}
+2022-02-14 18:48:41,815 - root - INFO - {'message': 'page: 5588 -> Simulated internal error'}
+2022-02-14 18:48:46,820 - root - INFO - {'message': 'page: 5612 -> Simulated internal error'}
+2022-02-14 18:48:54,719 - root - INFO - {'message': 'page: 5626 -> Simulated internal error'}
+2022-02-14 18:48:57,094 - root - INFO - {'message': 'page: 5632 -> Simulated internal error'}
+2022-02-14 18:49:03,858 - root - INFO - {'message': 'page: 5662 -> Simulated internal error'}
+2022-02-14 18:49:46,367 - root - INFO - {'message': 'page: 5779 -> Simulated internal error'}
+2022-02-14 18:49:59,046 - root - INFO - {'message': 'page: 5827 -> Simulated internal error'}
+2022-02-14 18:50:10,387 - root - INFO - {'message': 'page: 5847 -> Simulated internal error'}
+2022-02-14 18:50:12,383 - root - INFO - {'message': 'page: 5866 -> Simulated internal error'}
+2022-02-14 18:50:44,552 - root - INFO - {'message': 'page: 5936 -> Simulated internal error'}
+2022-02-14 18:51:00,799 - root - INFO - {'message': 'page: 5981 -> Simulated internal error'}
+2022-02-14 18:51:03,971 - root - INFO - {'message': 'page: 6013 -> Simulated internal error'}
+2022-02-14 18:51:12,976 - root - INFO - {'message': 'page: 6014 -> Simulated internal error'}
+2022-02-14 18:51:20,648 - root - INFO - {'message': 'page: 6062 -> Simulated internal error'}
+2022-02-14 18:51:27,367 - root - INFO - {'message': 'page: 6056 -> Simulated internal error'}
+2022-02-14 18:51:30,787 - root - INFO - {'message': 'page: 6091 -> Simulated internal error'}
+2022-02-14 18:51:33,013 - root - INFO - {'message': 'page: 6097 -> Simulated internal error'}
+2022-02-14 18:52:00,490 - root - INFO - {'message': 'page: 6179 -> Simulated internal error'}
+2022-02-14 18:52:06,631 - root - INFO - {'message': 'page: 6170 -> Simulated internal error'}
+2022-02-14 18:52:31,665 - root - INFO - {'message': 'page: 6272 -> Simulated internal error'}
+2022-02-14 18:52:50,391 - root - INFO - {'message': 'page: 6327 -> Simulated internal error'}
+2022-02-14 18:52:56,650 - root - INFO - {'message': 'page: 6345 -> Simulated internal error'}
+2022-02-14 18:53:10,324 - root - INFO - {'message': 'page: 6384 -> Simulated internal error'}
+2022-02-14 18:53:19,754 - root - INFO - {'message': 'page: 6411 -> Simulated internal error'}
+2022-02-14 18:53:29,381 - root - INFO - {'message': 'page: 6438 -> Simulated internal error'}
+2022-02-14 18:53:42,138 - root - INFO - {'message': 'page: 6472 -> Simulated internal error'}
+2022-02-14 18:54:06,227 - root - INFO - {'message': 'page: 6537 -> Simulated internal error'}
+2022-02-14 18:54:17,330 - root - INFO - {'message': 'page: 6570 -> Simulated internal error'}
+2022-02-14 18:54:27,191 - root - INFO - {'message': 'page: 6598 -> Simulated internal error'}
+2022-02-14 18:54:40,460 - root - INFO - {'message': 'page: 6637 -> Simulated internal error'}
+2022-02-14 18:55:20,773 - root - INFO - {'message': 'page: 6736 -> Simulated internal error'}
+2022-02-14 18:55:23,054 - root - INFO - {'message': 'page: 6764 -> Simulated internal error'}
+2022-02-14 18:55:27,165 - root - INFO - {'message': 'page: 6775 -> Simulated internal error'}
+2022-02-14 18:56:33,781 - root - INFO - {'message': 'page: 6971 -> Simulated internal error'}
+2022-02-14 18:56:38,398 - root - INFO - {'message': 'page: 6984 -> Simulated internal error'}
+2022-02-14 18:57:14,023 - root - INFO - {'message': 'page: 7081 -> Simulated internal error'}
+2022-02-14 18:57:42,408 - root - INFO - {'message': 'page: 7165 -> Simulated internal error'}
+2022-02-14 18:58:11,069 - root - INFO - {'message': 'page: 7250 -> Simulated internal error'}
+2022-02-14 18:58:45,493 - root - INFO - {'message': 'page: 7341 -> Simulated internal error'}
+2022-02-14 18:58:45,524 - root - INFO - {'message': 'page: 7351 -> Simulated internal error'}
+2022-02-14 18:59:18,638 - root - INFO - {'message': 'page: 7449 -> Simulated internal error'}
+2022-02-14 18:59:51,978 - root - INFO - {'message': 'page: 7548 -> Simulated internal error'}
+2022-02-14 19:00:04,969 - root - INFO - {'message': 'page: 7578 -> Simulated internal error'}
+2022-02-14 19:00:25,313 - root - INFO - {'message': 'page: 7647 -> Simulated internal error'}
+2022-02-14 19:00:46,885 - root - INFO - {'message': 'page: 7702 -> Simulated internal error'}
+2022-02-14 19:01:10,608 - root - INFO - {'message': 'page: 7782 -> Simulated internal error'}
+2022-02-14 19:01:24,015 - root - INFO - {'message': 'page: 7812 -> Simulated internal error'}
+2022-02-14 19:01:24,328 - root - INFO - {'message': 'page: 7812 -> Simulated internal error'}
+2022-02-14 19:01:39,142 - root - INFO - {'message': 'page: 7854 -> Simulated internal error'}
+2022-02-14 19:01:51,238 - root - INFO - {'message': 'page: 7900 -> Simulated internal error'}
+2022-02-14 19:02:01,066 - root - INFO - {'message': 'page: 7912 -> Simulated internal error'}
+2022-02-14 19:02:04,735 - root - INFO - {'message': 'page: 7935 -> Simulated internal error'}
+2022-02-14 19:02:26,668 - root - INFO - {'message': 'page: 7996 -> Simulated internal error'}
+2022-02-14 19:02:48,724 - root - INFO - {'message': 'page: 8047 -> Simulated internal error'}
+2022-02-14 19:03:25,417 - root - INFO - {'message': 'page: 8170 -> Simulated internal error'}
+2022-02-14 19:03:37,006 - root - INFO - {'message': 'page: 8191 -> Simulated internal error'}
+2022-02-14 19:03:43,771 - root - INFO - {'message': 'page: 8210 -> Simulated internal error'}
+2022-02-14 19:03:55,861 - root - INFO - {'message': 'page: 8245 -> Simulated internal error'}
+2022-02-14 19:04:13,113 - root - INFO - {'message': 'page: 8312 -> Simulated internal error'}
+2022-02-14 19:04:38,108 - root - INFO - {'message': 'page: 8371 -> Simulated internal error'}
+2022-02-14 19:05:18,530 - root - INFO - {'message': 'page: 8492 -> Simulated internal error'}
+2022-02-14 19:05:20,561 - root - INFO - {'message': 'page: 8497 -> Simulated internal error'}
+2022-02-14 19:05:37,757 - root - INFO - {'message': 'page: 8547 -> Simulated internal error'}
+2022-02-14 19:05:46,365 - root - INFO - {'message': 'page: 8571 -> Simulated internal error'}
+2022-02-14 19:06:25,973 - root - INFO - {'message': 'page: 8708 -> Simulated internal error'}
+2022-02-14 19:06:26,645 - root - INFO - {'message': 'page: 8709 -> Simulated internal error'}
+2022-02-14 19:06:29,553 - root - INFO - {'message': 'page: 8699 -> Simulated internal error'}
+2022-02-14 19:06:50,191 - root - INFO - {'message': 'page: 8775 -> Simulated internal error'}
+2022-02-14 19:06:58,272 - root - INFO - {'message': 'page: 8780 -> Simulated internal error'}
+2022-02-14 19:07:09,770 - root - INFO - {'message': 'page: 8814 -> Simulated internal error'}
+2022-02-14 19:07:17,867 - root - INFO - {'message': 'page: 8837 -> Simulated internal error'}
+2022-02-14 19:07:20,792 - root - INFO - {'message': 'page: 8866 -> Simulated internal error'}
+2022-02-14 19:07:28,189 - root - INFO - {'message': 'page: 8887 -> Simulated internal error'}
+2022-02-14 19:07:29,830 - root - INFO - {'message': 'page: 8872 -> Simulated internal error'}
+2022-02-14 19:07:58,856 - root - INFO - {'message': 'page: 8975 -> Simulated internal error'}
+2022-02-14 19:08:07,559 - root - INFO - {'message': 'page: 8982 -> Simulated internal error'}
+2022-02-14 19:08:39,998 - root - INFO - {'message': 'page: 9096 -> Simulated internal error'}
+2022-02-14 19:08:49,092 - root - INFO - {'message': 'page: 9105 -> Simulated internal error'}
+2022-02-14 19:08:53,514 - root - INFO - {'message': 'page: 9135 -> Simulated internal error'}
+2022-02-14 19:09:17,289 - root - INFO - {'message': 'page: 9203 -> Simulated internal error'}
+2022-02-14 19:09:19,305 - root - INFO - {'message': 'page: 9192 -> Simulated internal error'}
+2022-02-14 19:09:28,944 - root - INFO - {'message': 'page: 9220 -> Simulated internal error'}
+2022-02-14 19:10:21,880 - root - INFO - {'message': 'page: 9393 -> Simulated internal error'}
+2022-02-14 19:10:34,137 - root - INFO - {'message': 'page: 9413 -> Simulated internal error'}
+2022-02-14 19:10:41,196 - root - INFO - {'message': 'page: 9432 -> Simulated internal error'}
+2022-02-14 19:10:43,164 - root - INFO - {'message': 'page: 9437 -> Simulated internal error'}
+2022-02-14 19:11:15,864 - root - INFO - {'message': 'page: 9534 -> Simulated internal error'}
+2022-02-14 19:11:39,569 - root - INFO - {'message': 'page: 9603 -> Simulated internal error'}
+2022-02-14 19:11:49,710 - root - INFO - {'message': 'page: 9633 -> Simulated internal error'}
+2022-02-14 19:12:12,504 - root - INFO - {'message': 'page: 9700 -> Simulated internal error'}
+2022-02-14 19:12:27,923 - root - INFO - {'message': 'page: 9766 -> Simulated internal error'}
+2022-02-14 19:12:28,565 - root - INFO - {'message': 'page: 9767 -> Simulated internal error'}
+2022-02-14 19:12:56,413 - root - INFO - {'message': 'page: 9823 -> Simulated internal error'}
+2022-02-14 19:13:07,715 - root - INFO - {'message': 'page: 9855 -> Simulated internal error'}
+2022-02-14 19:13:41,911 - root - INFO - {'message': 'page: 9982 -> Simulated internal error'}
+2022-02-14 19:58:34,783 - root - INFO - GET data_list
+2022-02-14 19:58:40,329 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 19:58:40] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:12:58,579 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test_model_numbers.py', reloading
+2022-02-14 20:12:58,698 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:12:59,201 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:12:59,209 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:12:59,229 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:12:59,264 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:13:08,287 - root - INFO - {'message': 'page: 22 -> Simulated internal error'}
+2022-02-14 20:13:17,333 - root - INFO - {'message': 'page: 48 -> Simulated internal error'}
+2022-02-14 20:14:37,333 - root - INFO - {'message': 'page: 283 -> Simulated internal error'}
+2022-02-14 20:14:43,013 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\test_model_numbers.py', reloading
+2022-02-14 20:14:57,158 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:14:57,173 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:14:57,680 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:14:57,696 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:14:57,711 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:14:57,756 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:15:00,319 - root - INFO - GET data_list
+2022-02-14 20:15:00,323 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:00] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:04,826 - root - INFO - GET data_list
+2022-02-14 20:15:04,834 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:04] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:06,049 - root - INFO - GET data_list
+2022-02-14 20:15:06,058 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:06,942 - root - INFO - {'message': 'page: 30 -> Simulated internal error'}
+2022-02-14 20:15:07,141 - root - INFO - GET data_list
+2022-02-14 20:15:07,152 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:07] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:08,142 - root - INFO - GET data_list
+2022-02-14 20:15:08,153 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:08] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:34,465 - root - INFO - {'message': 'page: 110 -> Simulated internal error'}
+2022-02-14 20:15:36,704 - root - INFO - {'message': 'page: 116 -> Simulated internal error'}
+2022-02-14 20:15:39,024 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:15:39,040 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:15:39,524 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:15:39,540 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:15:39,555 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:15:39,602 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:15:42,148 - root - INFO - GET data_list
+2022-02-14 20:15:42,153 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:42] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:43,864 - root - INFO - GET data_list
+2022-02-14 20:15:43,868 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:43] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:44,675 - root - INFO - GET data_list
+2022-02-14 20:15:44,682 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:44] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:15:45,423 - root - INFO - GET data_list
+2022-02-14 20:15:45,429 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:15:45] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:16:24,181 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:16:24,196 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:16:24,696 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:16:24,712 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:16:24,727 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:16:24,774 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:16:26,527 - root - INFO - {'message': 'page: 7 -> Simulated internal error'}
+2022-02-14 20:16:43,337 - root - INFO - {'message': 'page: 56 -> Simulated internal error'}
+2022-02-14 20:16:46,620 - root - INFO - {'message': 'page: 66 -> Simulated internal error'}
+2022-02-14 20:16:56,208 - root - INFO - {'message': 'page: 94 -> Simulated internal error'}
+2022-02-14 20:17:20,576 - root - INFO - {'message': 'page: 165 -> Simulated internal error'}
+2022-02-14 20:17:38,482 - root - INFO - {'message': 'page: 218 -> Simulated internal error'}
+2022-02-14 20:17:55,390 - root - INFO - GET data_list
+2022-02-14 20:17:55,499 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:17:55] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:18:10,348 - root - INFO - {'message': 'page: 313 -> Simulated internal error'}
+2022-02-14 20:18:21,678 - root - INFO - {'message': 'page: 346 -> Simulated internal error'}
+2022-02-14 20:18:32,040 - root - INFO - GET data_list
+2022-02-14 20:18:32,196 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:18:32] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:18:35,868 - root - INFO - GET data_list
+2022-02-14 20:18:36,024 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:18:36] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:18:36,696 - root - INFO - {'message': 'page: 396 -> Simulated internal error'}
+2022-02-14 20:19:00,864 - root - INFO - {'message': 'page: 469 -> Simulated internal error'}
+2022-02-14 20:19:01,162 - root - INFO - {'message': 'page: 463 -> Simulated internal error'}
+2022-02-14 20:19:39,858 - root - INFO - {'message': 'page: 583 -> Simulated internal error'}
+2022-02-14 20:19:40,441 - root - INFO - GET data_list
+2022-02-14 20:19:40,704 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:19:40] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:19:44,427 - root - INFO - {'message': 'page: 588 -> Simulated internal error'}
+2022-02-14 20:19:48,796 - root - INFO - {'message': 'page: 600 -> Simulated internal error'}
+2022-02-14 20:19:48,890 - root - INFO - GET data_list
+2022-02-14 20:19:49,140 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:19:49] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:20:12,787 - root - INFO - {'message': 'page: 670 -> Simulated internal error'}
+2022-02-14 20:20:21,791 - root - INFO - {'message': 'page: 708 -> Simulated internal error'}
+2022-02-14 20:20:38,775 - root - INFO - {'message': 'page: 758 -> Simulated internal error'}
+2022-02-14 20:20:43,756 - root - INFO - {'message': 'page: 772 -> Simulated internal error'}
+2022-02-14 20:20:48,968 - root - INFO - {'message': 'page: 778 -> Simulated internal error'}
+2022-02-14 20:20:50,286 - root - INFO - {'message': 'page: 781 -> Simulated internal error'}
+2022-02-14 20:21:00,817 - root - INFO - {'message': 'page: 812 -> Simulated internal error'}
+2022-02-14 20:21:06,708 - root - INFO - {'message': 'page: 829 -> Simulated internal error'}
+2022-02-14 20:21:11,883 - root - INFO - {'message': 'page: 843 -> Simulated internal error'}
+2022-02-14 20:21:27,699 - root - INFO - {'message': 'page: 902 -> Simulated internal error'}
+2022-02-14 20:21:32,444 - root - INFO - {'message': 'page: 915 -> Simulated internal error'}
+2022-02-14 20:21:37,484 - root - INFO - {'message': 'page: 919 -> Simulated internal error'}
+2022-02-14 20:21:52,367 - root - INFO - {'message': 'page: 973 -> Simulated internal error'}
+2022-02-14 20:21:56,842 - root - INFO - {'message': 'page: 977 -> Simulated internal error'}
+2022-02-14 20:22:01,440 - root - INFO - {'message': 'page: 990 -> Simulated internal error'}
+2022-02-14 20:22:03,074 - root - INFO - {'message': 'page: 994 -> Simulated internal error'}
+2022-02-14 20:22:08,672 - root - INFO - {'message': 'page: 1021 -> Simulated internal error'}
+2022-02-14 20:22:30,821 - root - INFO - {'message': 'page: 1075 -> Simulated internal error'}
+2022-02-14 20:22:36,599 - root - INFO - {'message': 'page: 1105 -> Simulated internal error'}
+2022-02-14 20:22:55,303 - root - INFO - {'message': 'page: 1160 -> Simulated internal error'}
+2022-02-14 20:23:14,473 - root - INFO - {'message': 'page: 1214 -> Simulated internal error'}
+2022-02-14 20:23:16,834 - root - INFO - {'message': 'page: 1220 -> Simulated internal error'}
+2022-02-14 20:24:05,234 - root - INFO - GET data_list
+2022-02-14 20:24:05,819 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:24:05] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:24:09,471 - root - INFO - {'message': 'page: 1377 -> Simulated internal error'}
+2022-02-14 20:24:15,033 - root - INFO - {'message': 'page: 1385 -> Simulated internal error'}
+2022-02-14 20:24:40,380 - root - INFO - {'message': 'page: 1468 -> Simulated internal error'}
+2022-02-14 20:24:43,424 - root - INFO - {'message': 'page: 1476 -> Simulated internal error'}
+2022-02-14 20:25:03,664 - root - INFO - {'message': 'page: 1536 -> Simulated internal error'}
+2022-02-14 20:25:19,631 - root - INFO - {'message': 'page: 1582 -> Simulated internal error'}
+2022-02-14 20:25:44,515 - root - INFO - {'message': 'page: 1654 -> Simulated internal error'}
+2022-02-14 20:26:02,195 - root - INFO - {'message': 'page: 1707 -> Simulated internal error'}
+2022-02-14 20:26:02,570 - root - INFO - {'message': 'page: 1709 -> Simulated internal error'}
+2022-02-14 20:26:08,596 - root - INFO - {'message': 'page: 1726 -> Simulated internal error'}
+2022-02-14 20:26:09,237 - root - INFO - {'message': 'page: 1727 -> Simulated internal error'}
+2022-02-14 20:26:45,403 - root - INFO - {'message': 'page: 1836 -> Simulated internal error'}
+2022-02-14 20:26:49,777 - root - INFO - {'message': 'page: 1848 -> Simulated internal error'}
+2022-02-14 20:27:25,895 - root - INFO - {'message': 'page: 1955 -> Simulated internal error'}
+2022-02-14 20:27:28,642 - root - INFO - {'message': 'page: 1963 -> Simulated internal error'}
+2022-02-14 20:27:58,689 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-14 20:28:45,078 - root - INFO - {'message': 'page: 2190 -> Simulated internal error'}
+2022-02-14 20:29:00,974 - root - INFO - {'message': 'page: 2238 -> Simulated internal error'}
+2022-02-14 20:29:09,099 - root - INFO - {'message': 'page: 2261 -> Simulated internal error'}
+2022-02-14 20:29:21,537 - root - INFO - {'message': 'page: 2298 -> Simulated internal error'}
+2022-02-14 20:29:22,911 - root - INFO - {'message': 'page: 2301 -> Simulated internal error'}
+2022-02-14 20:29:26,208 - root - INFO - {'message': 'page: 2313 -> Simulated internal error'}
+2022-02-14 20:30:12,982 - root - INFO - {'message': 'page: 2451 -> Simulated internal error'}
+2022-02-14 20:30:17,505 - root - INFO - {'message': 'page: 2464 -> Simulated internal error'}
+2022-02-14 20:30:49,645 - root - INFO - {'message': 'page: 2559 -> Simulated internal error'}
+2022-02-14 20:31:18,715 - root - INFO - {'message': 'page: 2647 -> Simulated internal error'}
+2022-02-14 20:31:27,387 - root - INFO - {'message': 'page: 2671 -> Simulated internal error'}
+2022-02-14 20:31:33,404 - root - INFO - {'message': 'page: 2690 -> Simulated internal error'}
+2022-02-14 20:31:41,788 - root - INFO - {'message': 'page: 2713 -> Simulated internal error'}
+2022-02-14 20:32:16,025 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:32:16,040 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:32:16,493 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:32:16,509 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:32:16,525 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:32:16,571 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:32:22,096 - root - INFO - GET data_list
+2022-02-14 20:32:22,104 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:22] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:25,244 - root - INFO - {'message': 'page: 27 -> Simulated internal error'}
+2022-02-14 20:32:26,338 - root - INFO - GET data_list
+2022-02-14 20:32:26,349 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:26] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:28,033 - root - INFO - GET data_list
+2022-02-14 20:32:28,045 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:28] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:29,680 - root - INFO - GET data_list
+2022-02-14 20:32:29,695 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:29] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:31,472 - root - INFO - GET data_list
+2022-02-14 20:32:31,488 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:31] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:33,129 - root - INFO - GET data_list
+2022-02-14 20:32:33,149 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:33] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:34,439 - root - INFO - GET data_list
+2022-02-14 20:32:34,458 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:34] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:35,676 - root - INFO - GET data_list
+2022-02-14 20:32:35,696 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:35] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:36,810 - root - INFO - GET data_list
+2022-02-14 20:32:36,832 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:36] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:38,159 - root - INFO - GET data_list
+2022-02-14 20:32:38,181 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:38] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:39,315 - root - INFO - GET data_list
+2022-02-14 20:32:39,340 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:39] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:42,076 - root - INFO - GET data_list
+2022-02-14 20:32:42,102 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:42] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:45,762 - root - INFO - GET data_list
+2022-02-14 20:32:45,796 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:45] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:47,471 - root - INFO - GET data_list
+2022-02-14 20:32:47,503 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:47] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:48,569 - root - INFO - GET data_list
+2022-02-14 20:32:48,606 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:48] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:32:49,472 - root - INFO - GET data_list
+2022-02-14 20:32:49,507 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:32:49] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:01,753 - root - INFO - GET data_list
+2022-02-14 20:33:01,792 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:01] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:03,244 - root - INFO - GET data_list
+2022-02-14 20:33:03,284 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:03] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:04,771 - root - INFO - GET data_list
+2022-02-14 20:33:04,806 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:04] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:05,673 - root - INFO - GET data_list
+2022-02-14 20:33:05,711 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:05] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:06,332 - root - INFO - GET data_list
+2022-02-14 20:33:06,367 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:33:06,819 - root - INFO - GET data_list
+2022-02-14 20:33:06,859 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:33:06] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:34:24,417 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-14 20:34:24,495 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:34:24,995 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:34:25,042 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:34:25,089 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:34:25,167 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:34:52,898 - root - INFO - {'message': 'page: 83 -> Simulated internal error'}
+2022-02-14 20:35:14,965 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-14 20:35:15,043 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:35:15,590 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:35:15,605 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:35:15,621 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:35:15,668 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:35:39,721 - root - INFO - GET data_list
+2022-02-14 20:35:39,815 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:35:39] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-14 20:35:43,975 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:35:43,991 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:35:44,460 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:35:44,475 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:35:44,491 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:35:44,538 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:35:46,326 - root - INFO - GET data_list
+2022-02-14 20:35:46,348 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:35:46] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-14 20:35:47,708 - root - INFO - {'message': 'page: 11 -> Simulated internal error'}
+2022-02-14 20:35:56,406 - root - INFO - {'message': 'page: 36 -> Simulated internal error'}
+2022-02-14 20:35:58,671 - root - INFO - {'message': 'page: 42 -> Simulated internal error'}
+2022-02-14 20:36:01,286 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\resources\\model.py', reloading
+2022-02-14 20:36:07,006 - root - INFO - GET data_list
+2022-02-14 20:36:07,036 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:36:07] "[35m[1mGET /ordered-numbers HTTP/1.1[0m" 500 -
+2022-02-14 20:36:12,009 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:36:12,025 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:36:12,538 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:36:12,554 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:36:12,556 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:36:12,603 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:36:13,790 - root - INFO - GET data_list
+2022-02-14 20:36:13,792 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:36:13] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:36:16,794 - root - INFO - GET data_list
+2022-02-14 20:36:16,798 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:36:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:36:25,930 - root - INFO - {'message': 'page: 42 -> Simulated internal error'}
+2022-02-14 20:36:29,001 - root - INFO - {'message': 'page: 50 -> Simulated internal error'}
+2022-02-14 20:36:30,096 - root - INFO - {'message': 'page: 52 -> Simulated internal error'}
+2022-02-14 20:36:42,085 - root - INFO - {'message': 'page: 87 -> Simulated internal error'}
+2022-02-14 20:36:51,759 - root - INFO - {'message': 'page: 115 -> Simulated internal error'}
+2022-02-14 20:37:01,451 - root - INFO - {'message': 'page: 143 -> Simulated internal error'}
+2022-02-14 20:37:03,147 - root - INFO - {'message': 'page: 147 -> Simulated internal error'}
+2022-02-14 20:37:11,615 - root - INFO - {'message': 'page: 176 -> Simulated internal error'}
+2022-02-14 20:37:34,276 - root - INFO - {'message': 'page: 240 -> Simulated internal error'}
+2022-02-14 20:37:45,298 - root - INFO - {'message': 'page: 272 -> Simulated internal error'}
+2022-02-14 20:38:12,516 - root - INFO - {'message': 'page: 323 -> Simulated internal error'}
+2022-02-14 20:38:17,469 - root - INFO - {'message': 'page: 348 -> Simulated internal error'}
+2022-02-14 20:38:25,705 - root - INFO - {'message': 'page: 349 -> Simulated internal error'}
+2022-02-14 20:38:31,241 - root - INFO - {'message': 'page: 379 -> Simulated internal error'}
+2022-02-14 20:38:42,497 - root - INFO - {'message': 'page: 383 -> Simulated internal error'}
+2022-02-14 20:39:33,031 - root - INFO - {'message': 'page: 534 -> Simulated internal error'}
+2022-02-14 20:39:35,172 - root - INFO - {'message': 'page: 557 -> Simulated internal error'}
+2022-02-14 20:39:39,438 - root - INFO - {'message': 'page: 552 -> Simulated internal error'}
+2022-02-14 20:39:39,924 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\config_test.py', reloading
+2022-02-14 20:39:53,857 - root - INFO - {'message': 'page: 612 -> Simulated internal error'}
+2022-02-14 20:40:46,713 - root - INFO - {'message': 'page: 770 -> Simulated internal error'}
+2022-02-14 20:41:04,881 - root - INFO - {'message': 'page: 807 -> Simulated internal error'}
+2022-02-14 20:41:20,837 - root - INFO - {'message': 'page: 854 -> Simulated internal error'}
+2022-02-14 20:41:31,013 - root - INFO - {'message': 'page: 884 -> Simulated internal error'}
+2022-02-14 20:41:54,219 - root - INFO - {'message': 'page: 967 -> Simulated internal error'}
+2022-02-14 20:42:28,593 - root - INFO - {'message': 'page: 1069 -> Simulated internal error'}
+2022-02-14 20:42:37,872 - root - INFO - {'message': 'page: 1084 -> Simulated internal error'}
+2022-02-14 20:42:38,911 - root - INFO - {'message': 'page: 1099 -> Simulated internal error'}
+2022-02-14 20:42:48,784 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:43:01,389 - root - INFO - {'message': 'page: 1151 -> Simulated internal error'}
+2022-02-14 20:43:03,048 - root - INFO - {'message': 'page: 1168 -> Simulated internal error'}
+2022-02-14 20:43:23,678 - root - INFO - {'message': 'page: 1207 -> Simulated internal error'}
+2022-02-14 20:43:50,185 - root - INFO - {'message': 'page: 1264 -> Simulated internal error'}
+2022-02-14 20:43:58,237 - root - INFO - {'message': 'page: 149 -> Simulated internal error'}
+2022-02-14 20:44:20,506 - root - INFO - {'message': 'page: 1287 -> Simulated internal error'}
+2022-02-14 20:44:24,817 - root - INFO - {'message': 'page: 191 -> Simulated internal error'}
+2022-02-14 20:44:31,098 - root - INFO - {'message': 'page: 208 -> Simulated internal error'}
+2022-02-14 20:44:44,721 - root - INFO - {'message': 'page: 1334 -> Simulated internal error'}
+2022-02-14 20:45:02,582 - root - INFO - {'message': 'page: 262 -> Simulated internal error'}
+2022-02-14 20:45:05,396 - root - INFO - {'message': 'page: 1416 -> Simulated internal error'}
+2022-02-14 20:45:33,806 - root - INFO - {'message': 'page: 1447 -> Simulated internal error'}
+2022-02-14 20:45:36,286 - root - INFO - {'message': 'page: 1490 -> Simulated internal error'}
+2022-02-14 20:45:54,110 - root - INFO - {'message': 'page: 1524 -> Simulated internal error'}
+2022-02-14 20:45:54,113 - root - INFO - {'message': 'page: 382 -> Simulated internal error'}
+2022-02-14 20:46:04,765 - root - INFO - {'message': 'page: 1537 -> Simulated internal error'}
+2022-02-14 20:46:33,233 - root - INFO - {'message': 'page: 1596 -> Simulated internal error'}
+2022-02-14 20:46:37,673 - root - INFO - {'message': 'page: 1602 -> Simulated internal error'}
+2022-02-14 20:47:02,094 - root - INFO - {'message': 'page: 1650 -> Simulated internal error'}
+2022-02-14 20:47:38,106 - root - INFO - {'message': 'page: 591 -> Simulated internal error'}
+2022-02-14 20:47:39,199 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:47:39,215 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:47:39,668 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:47:39,684 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:47:39,699 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:47:39,746 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:47:57,370 - root - INFO - {'message': 'page: 41 -> Simulated internal error'}
+2022-02-14 20:48:11,396 - root - INFO - {'message': 'page: 663 -> Simulated internal error'}
+2022-02-14 20:48:13,709 - root - INFO - {'message': 'page: 80 -> Simulated internal error'}
+2022-02-14 20:48:20,068 - root - INFO - {'message': 'page: 98 -> Simulated internal error'}
+2022-02-14 20:48:24,302 - root - INFO - {'message': 'page: 686 -> Simulated internal error'}
+2022-02-14 20:48:31,413 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:48:31,444 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:49:01,266 - root - INFO - {'message': 'page: 87 -> Simulated internal error'}
+2022-02-14 20:49:45,991 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\config_test.py', reloading
+2022-02-14 20:49:46,116 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:49:46,601 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:49:46,616 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:49:46,629 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:49:46,675 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:50:17,548 - root - INFO - {'message': 'page: 90 -> Simulated internal error'}
+2022-02-14 20:50:17,861 - root - INFO - {'message': 'page: 90 -> Simulated internal error'}
+2022-02-14 20:50:19,892 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\config_test.py', reloading
+2022-02-14 20:50:21,283 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:50:21,751 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:50:21,767 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:50:21,783 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:50:21,829 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:50:22,017 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:50:22,033 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:50:42,053 - root - INFO - {'message': 'page: 60 -> Simulated internal error'}
+2022-02-14 20:50:53,660 - root - INFO - {'message': 'page: 95 -> Simulated internal error'}
+2022-02-14 20:50:54,697 - root - INFO - {'message': 'page: 97 -> Simulated internal error'}
+2022-02-14 20:51:34,366 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\config_test.py', reloading
+2022-02-14 20:51:34,418 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:51:35,026 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:51:35,041 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:51:35,054 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:51:35,098 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:51:40,436 - root - INFO - {'message': 'page: 16 -> Simulated internal error'}
+2022-02-14 20:51:42,139 - root - INFO - {'message': 'page: 20 -> Simulated internal error'}
+2022-02-14 20:51:47,626 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:51:47,657 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:52:04,314 - root - INFO - {'message': 'page: 50 -> Simulated internal error'}
+2022-02-14 20:52:05,002 - root - INFO - {'message': 'page: 51 -> Simulated internal error'}
+2022-02-14 20:52:08,939 - root - INFO - {'message': 'page: 62 -> Simulated internal error'}
+2022-02-14 20:54:53,898 - root - INFO - GET data_list
+2022-02-14 20:54:53,936 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 20:54:53] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 20:55:21,068 - werkzeug - INFO -  * Detected change in 'C:\\Users\\felipeRibeiroFreire\\Desktop\\pythonEstudos\\projetos\\crossCommerce\\model\\model.py', reloading
+2022-02-14 20:55:21,126 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 20:55:21,630 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 20:55:21,646 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 20:55:21,671 - werkzeug - INFO -  * Debugger PIN: 131-123-372
+2022-02-14 20:55:21,700 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 20:55:42,770 - root - INFO - {'message': 'page: 64 -> Simulated internal error'}
+2022-02-14 20:55:50,229 - root - INFO - {'message': 'page: 85 -> Simulated internal error'}
+2022-02-14 20:56:00,023 - root - INFO - {'message': 'page: 114 -> Simulated internal error'}
+2022-02-14 20:56:04,625 - root - INFO - {'message': 'page: 127 -> Simulated internal error'}
+2022-02-14 20:56:18,726 - root - INFO - {'message': 'page: 168 -> Simulated internal error'}
+2022-02-14 20:57:30,954 - root - INFO - {'message': 'page: 341 -> Simulated internal error'}
+2022-02-14 20:57:52,341 - root - INFO - {'message': 'page: 404 -> Simulated internal error'}
+2022-02-14 20:59:17,851 - root - INFO - {'message': 'page: 658 -> Simulated internal error'}
+2022-02-14 20:59:31,769 - root - INFO - {'message': 'page: 698 -> Simulated internal error'}
+2022-02-14 21:00:00,914 - root - INFO - {'message': 'page: 785 -> Simulated internal error'}
+2022-02-14 21:00:23,267 - root - INFO - {'message': 'page: 850 -> Simulated internal error'}
+2022-02-14 21:00:25,969 - root - INFO - {'message': 'page: 857 -> Simulated internal error'}
+2022-02-14 21:03:04,465 - root - INFO - {'message': 'page: 1329 -> Simulated internal error'}
+2022-02-14 21:03:26,271 - root - INFO - {'message': 'page: 1392 -> Simulated internal error'}
+2022-02-14 21:03:30,621 - root - INFO - {'message': 'page: 1404 -> Simulated internal error'}
+2022-02-14 21:04:10,029 - root - INFO - {'message': 'page: 1521 -> Simulated internal error'}
+2022-02-14 21:04:23,633 - root - INFO - {'message': 'page: 1561 -> Simulated internal error'}
+2022-02-14 21:04:51,407 - root - INFO - {'message': 'page: 1643 -> Simulated internal error'}
+2022-02-14 21:05:46,949 - root - INFO - {'message': 'page: 1808 -> Simulated internal error'}
+2022-02-14 21:06:26,626 - root - INFO - {'message': 'page: 1925 -> Simulated internal error'}
+2022-02-14 21:08:26,499 - root - INFO - {'message': 'page: 2284 -> Simulated internal error'}
+2022-02-14 21:08:40,827 - root - INFO - {'message': 'page: 2326 -> Simulated internal error'}
+2022-02-14 21:09:09,183 - root - INFO - {'message': 'page: 2410 -> Simulated internal error'}
+2022-02-14 21:09:38,041 - root - INFO - {'message': 'page: 2495 -> Simulated internal error'}
+2022-02-14 21:10:34,109 - root - INFO - {'message': 'page: 2661 -> Simulated internal error'}
+2022-02-14 21:11:48,427 - root - INFO - {'message': 'page: 2881 -> Simulated internal error'}
+2022-02-14 21:13:01,794 - root - INFO - {'message': 'page: 3099 -> Simulated internal error'}
+2022-02-14 21:13:11,419 - root - INFO - {'message': 'page: 3127 -> Simulated internal error'}
+2022-02-14 21:14:00,610 - root - INFO - {'message': 'page: 3274 -> Simulated internal error'}
+2022-02-14 21:14:54,630 - root - INFO - {'message': 'page: 3436 -> Simulated internal error'}
+2022-02-14 21:48:59,472 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 21:48:59,494 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 21:49:00,134 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 21:49:00,149 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 21:49:00,165 - werkzeug - INFO -  * Debugger PIN: 436-576-363
+2022-02-14 21:49:00,212 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 21:49:50,454 - root - INFO - {'message': 'page: 150 -> Simulated internal error'}
+2022-02-14 21:50:35,499 - root - INFO - {'message': 'page: 284 -> Simulated internal error'}
+2022-02-14 21:50:50,578 - root - INFO - {'message': 'page: 328 -> Simulated internal error'}
+2022-02-14 21:51:01,304 - root - INFO - {'message': 'page: 358 -> Simulated internal error'}
+2022-02-14 21:51:03,667 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 21:51:03,682 - werkzeug - INFO -  * Restarting with stat
+2022-02-14 21:51:04,198 - root - INFO - {'message': 'get data initiated'}
+2022-02-14 21:51:04,198 - werkzeug - WARNING -  * Debugger is active!
+2022-02-14 21:51:04,214 - werkzeug - INFO -  * Debugger PIN: 436-576-363
+2022-02-14 21:51:04,260 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-14 21:51:15,653 - root - INFO - GET data_list
+2022-02-14 21:51:15,667 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 21:51:15] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 21:51:16,380 - root - INFO - GET data_list
+2022-02-14 21:51:16,394 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 21:51:16] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 21:51:17,027 - root - INFO - GET data_list
+2022-02-14 21:51:17,040 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 21:51:17] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 21:51:17,582 - root - INFO - GET data_list
+2022-02-14 21:51:17,597 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2022 21:51:17] "GET /ordered-numbers HTTP/1.1" 200 -
+2022-02-14 21:51:26,450 - root - INFO - {'message': 'page: 66 -> Simulated internal error'}
+2022-02-14 21:51:36,153 - root - INFO - {'message': 'page: 94 -> Simulated internal error'}
+2022-02-14 21:51:43,373 - root - INFO - {'message': 'page: 115 -> Simulated internal error'}
+2022-02-14 21:52:31,460 - root - INFO - {'message': 'page: 253 -> Simulated internal error'}
+2022-02-14 21:52:35,850 - root - INFO - {'message': 'page: 270 -> Simulated internal error'}
+2022-02-14 21:52:46,850 - root - INFO - {'message': 'page: 302 -> Simulated internal error'}
+2022-02-14 21:52:54,393 - root - INFO - {'message': 'page: 321 -> Simulated internal error'}
+2022-02-14 21:52:57,084 - root - INFO - {'message': 'page: 328 -> Simulated internal error'}
+2022-02-14 21:53:02,434 - root - INFO - {'message': 'page: 348 -> Simulated internal error'}
+2022-02-14 21:53:21,611 - root - INFO - {'message': 'page: 400 -> Simulated internal error'}
+2022-02-14 21:53:22,906 - root - INFO - {'message': 'page: 408 -> Simulated internal error'}
+2022-02-14 21:53:29,078 - root - INFO - {'message': 'page: 421 -> Simulated internal error'}
+2022-02-14 21:53:36,978 - root - INFO - {'message': 'page: 444 -> Simulated internal error'}
+2022-02-14 21:53:49,913 - root - INFO - {'message': 'page: 487 -> Simulated internal error'}
+2022-02-14 21:54:10,859 - root - INFO - {'message': 'page: 549 -> Simulated internal error'}
+2022-02-14 21:54:25,774 - root - INFO - {'message': 'page: 592 -> Simulated internal error'}
+2022-02-14 21:54:38,279 - root - INFO - {'message': 'page: 628 -> Simulated internal error'}
+2022-02-14 21:54:40,935 - root - INFO - {'message': 'page: 635 -> Simulated internal error'}

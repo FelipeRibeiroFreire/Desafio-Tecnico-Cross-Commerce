@@ -1,0 +1,6 @@
+requests
+httpie
+flask
+flask_restful
+pytest
+pytest-flask
